@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -200,6 +201,8 @@ def build_markdown_page(src: Path, dst: Path, lang: str) -> None:
     if body.lstrip().startswith("<h1"):
         body = re.sub(r"^<h1[^>]*>.*?</h1>\s*", "", body, count=1, flags=re.I)
     rel = "/" + str(dst.relative_to(BUILD)).replace("\\", "/")
+    pdf_label = "Download this page as an accessible PDF" if lang == "en" else "Télécharger cette page en PDF accessible"
+    body += f'\n<p class="pdf-link"><a href="{html.escape(dst.with_suffix(".pdf").name)}">{pdf_label}</a></p>\n'
     page = wrap_page(body, title, lang, rel)
     dst.parent.mkdir(parents=True, exist_ok=True)
     dst.write_text(page, encoding="utf-8")
@@ -264,6 +267,38 @@ def copy_assets() -> None:
     if dst.exists():
         shutil.rmtree(dst)
     shutil.copytree(ASSETS, dst)
+
+
+ROOT_ABS_ATTR = re.compile(r'(href|src)="/(?!/)([^"]*)"')
+MD_LINK_ATTR = re.compile(r'href="(?![a-z][a-z0-9+.-]*:)([^"#]+)\.md(#[^"]*)?"')
+
+
+def relativize_site() -> int:
+    """Rewrite root-absolute href/src to page-relative paths.
+
+    The site is served from a sub-path (GitHub Pages project site), so "/assets/..." would
+    resolve against the domain root and 404. Relative links work locally and on any sub-path.
+    """
+    changed = 0
+    for html_file in BUILD.rglob("*.html"):
+        text = html_file.read_text(encoding="utf-8")
+        page_dir = html_file.parent
+
+        def repl(m: re.Match[str]) -> str:
+            nonlocal changed
+            target, _, frag = m.group(2).partition("#")
+            rel = os.path.relpath(BUILD / target, page_dir) if target else os.path.relpath(BUILD, page_dir) + "/"
+            if target.endswith("/") and not rel.endswith("/"):
+                rel += "/"
+            changed += 1
+            return f'{m.group(1)}="{rel}{("#" + frag) if frag else ""}"'
+
+        new = ROOT_ABS_ATTR.sub(repl, text)
+        # Cross-references written against the markdown sources ("x.md#part") point at built pages.
+        new = MD_LINK_ATTR.sub(lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', new)
+        if new != text:
+            html_file.write_text(new, encoding="utf-8")
+    return changed
 
 
 def build_site() -> dict:
@@ -378,6 +413,7 @@ def build_site() -> dict:
 
     manifest = BUILD / "build-manifest.json"
     manifest.write_text(json.dumps(stats, indent=2), encoding="utf-8")
+    stats["relativized_links"] = relativize_site()
     return stats
 
 
@@ -401,17 +437,25 @@ def check_pdfs() -> dict:
 
 
 def check_links() -> dict:
-    results = {"broken": [], "checked": 0}
+    """Resolve every internal href/src against its page; report broken targets and any root-absolute link."""
+    results = {"broken": [], "root_absolute": [], "checked": 0}
     for html_file in BUILD.rglob("*.html"):
         text = html_file.read_text(encoding="utf-8")
-        for match in re.finditer(r'href="(/[^"]+)"', text):
-            href = match.group(1).split("#")[0]
-            if not href or href.startswith("http"):
+        for match in re.finditer(r'(?:href|src)="([^"]+)"', text):
+            link = match.group(1)
+            if link.startswith(("http://", "https://", "mailto:", "tel:", "#", "data:", "//")):
                 continue
-            target = BUILD / href.lstrip("/")
+            path = link.split("#")[0].split("?")[0]
+            if not path:
+                continue
+            if path.startswith("/"):
+                results["root_absolute"].append({"file": str(html_file.relative_to(ROOT)), "link": link})
+                target = BUILD / path.lstrip("/")
+            else:
+                target = (html_file.parent / path).resolve()
             results["checked"] += 1
             if not target.exists():
-                results["broken"].append({"file": str(html_file.relative_to(ROOT)), "href": href})
+                results["broken"].append({"file": str(html_file.relative_to(ROOT)), "link": link})
     return results
 
 
@@ -435,7 +479,7 @@ def main() -> int:
     if args.all or args.check_links:
         link_results = check_links()
         print(json.dumps(link_results, indent=2))
-        if link_results["broken"]:
+        if link_results["broken"] or link_results["root_absolute"]:
             return 1
 
     return 0

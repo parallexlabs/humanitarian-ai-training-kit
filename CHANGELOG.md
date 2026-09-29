@@ -2,6 +2,16 @@
 
 All notable changes to this project are documented here.
 
+## [1.2.1] - 2026-09-29
+
+### Fixed
+
+- Published site: stylesheet, images and every internal link now resolve under the project sub-path; root-absolute links had returned 404 on GitHub Pages
+- Cross-references between pages now point at the built HTML pages instead of markdown sources
+- Diagrams now appear in the PDFs; the image path was not found, so only the alt text had been rendered
+- Each page links to its tagged PDF; PDF titles come from the page heading (for example "AI use decision guide")
+- CI installs librsvg for SVG conversion; the link check now resolves relative links and fails on any root-absolute link
+
 ## [1.2.0] - 2026-09-29
 
 ### Added

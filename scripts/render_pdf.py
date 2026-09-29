@@ -36,9 +36,22 @@ def preprocess_markdown(md_text: str, is_slides: bool) -> str:
     return md_text
 
 
+REPO_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _document_title(md_text: str, md_path: Path) -> str:
+    """Use the page's first level-one heading, so acronyms keep their case ("AI", not "Ai")."""
+    for line in md_text.splitlines():
+        if line.startswith("# "):
+            return line[2:].strip().replace("*", "").replace("`", "")
+    return md_path.stem.replace("-", " ").capitalize()
+
+
 def md_to_docx(md_path: Path, docx_path: Path, lang: str, is_slides: bool = False) -> None:
     md_text = md_path.read_text(encoding="utf-8")
     processed = preprocess_markdown(md_text, is_slides)
+    # Site-root image paths ("/assets/...") mean the repository assets folder when building the PDF.
+    processed = processed.replace("](/assets/", f"]({REPO_ROOT / 'assets'}/")
     lang_code = LANG_CODES.get(lang, lang)
     cmd = [
         "pandoc",
@@ -49,7 +62,7 @@ def md_to_docx(md_path: Path, docx_path: Path, lang: str, is_slides: bool = Fals
         "--metadata",
         f"lang={lang_code}",
         "--metadata",
-        f"title={md_path.stem.replace('-', ' ').title()}",
+        f"title={_document_title(md_text, md_path)}",
         "-o",
         str(docx_path),
     ]
