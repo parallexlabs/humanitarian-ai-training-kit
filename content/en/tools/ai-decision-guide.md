@@ -2,6 +2,10 @@
 
 **One page for quick reference.** Use with your organization's policies. Classroom use is not consultation with affected people or partners.
 
+![Seven-step AI use decision flow ending in green, amber, or red](/assets/images/ai-decision-flow.svg)
+
+**Text equivalent:** Purpose, people, data, tool, verification, human control, monitoring, then record green, amber, or red with an owner. Full table in [visual aids](visual-aids.md).
+
 ## Seven questions before you use AI
 
 | Step | Question | Stop if... |

@@ -13,6 +13,13 @@ Open, bilingual (English and French), accessible training on using AI responsibl
 
 French versions were prepared with machine assistance; human review by a professional translator is recommended before use.
 
+### French quality and parity
+
+- **Parity checks:** `scripts/compare_en_fr.py` compares every EN/FR file pair for numbers, dates, times, ordered and unordered list counts, table rows, and negation markers. Release requires 0 mismatches.
+- **Terminology glossary (key terms):** *green / amber / red* = vert / ambre / rouge; *affected people* = personnes touchées; *data responsibility* = responsabilité des données; *safeguarding* = sauvegarde; *PSEA* = PSEA (Protection contre l'exploitation et les atteintes sexuelles); *accountability* = responsabilité (rendered *responsabilité envers les personnes touchées* where the English means accountability to affected people).
+- **Professional review:** No professional translator has reviewed the French materials yet. Treat them as draft until your organization completes review for your context.
+- **Machine assistance:** French files were produced with machine assistance and edited for structural parity with English; they are not certified translations.
+
 ## Open by design
 
 **We build in the open.** ParalleX Labs Inc. publishes its tools, methods and learning materials under open licences, so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
@@ -26,7 +33,7 @@ French versions were prepared with machine assistance; human review by a profess
 - Optional [15-minute source-check activity](content/en/sessions/short-source-check/activity.md) with breakout, plenary, and text-only routes
 - Eight synthetic case studies
 - Pre/post assessment, skills rubric, evaluation form, and [sample final-report page](content/en/assessment/sample-final-report-page.md)
-- [AI use decision guide](content/en/tools/ai-decision-guide.md), [data-responsibility checklist](content/en/tools/data-responsibility-checklist.md), and [deliverables acceptance checklist](content/en/tools/deliverables-acceptance-checklist.md)
+- [AI use decision guide](content/en/tools/ai-decision-guide.md), [data-responsibility checklist](content/en/tools/data-responsibility-checklist.md), [deliverables acceptance checklist](content/en/tools/deliverables-acceptance-checklist.md), [facilitator guide](content/en/tools/facilitator-guide.md), [participant handbook](content/en/tools/participant-handbook.md), and [technology checklist](content/en/tools/technology-accessibility-checklist.md)
 - [References](content/en/references.md) with public primary sources
 
 ## Build the site and PDFs
@@ -52,7 +59,7 @@ python3 scripts/build.py --check-pdfs
 
 veraPDF path used locally: `/opt/homebrew/bin/verapdf` (profile `-f ua1`)
 
-**PDF/UA-1 (last build):** 92 of 92 PDFs pass veraPDF `-f ua1` and `qpdf --check`. HTML remains the primary accessible format (WCAG 2.2 AA).
+**PDF/UA-1 (last build):** 110 of 110 PDFs pass veraPDF `-f ua1` and `qpdf --check`. HTML remains the primary accessible format (WCAG 2.2 AA).
 
 ### Accessibility audit
 
@@ -60,7 +67,7 @@ veraPDF path used locally: `/opt/homebrew/bin/verapdf` (profile `-f ua1`)
 python3 scripts/axe_audit.py
 ```
 
-Runs axe-core with WCAG 2.2 A and AA rule tags on every built page in English and French. **Last audit:** 0 violations across 110 pages.
+Runs axe-core with WCAG 2.2 A and AA rule tags on every built page in English and French. **Last audit:** 0 violations across 129 pages.
 
 ### Link check
 

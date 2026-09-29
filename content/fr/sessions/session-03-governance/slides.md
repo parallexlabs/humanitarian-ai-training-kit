@@ -48,6 +48,15 @@ Pas de données réelles dans l'exercice en classe.
 
 ---
 
+# Sauvegarde et protection
+
+- Données de protection de l'enfance et liées à la VBG : par défaut **rouge** dans les outils non approuvés
+- Divulgations en formation : pause, référer aux points focaux de l'organisation, ne enquêtez pas en plénière
+- Les voies de signalement PSEA doivent être connues avant les incidents
+- Voir le module de sauvegarde et la liste de contrôle sur la responsabilité des données
+
+---
+
 # Charte de pilote (éléments essentiels)
 
 - Tâche et base de référence hors IA

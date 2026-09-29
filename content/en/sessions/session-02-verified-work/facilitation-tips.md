@@ -1,13 +1,18 @@
 # Session 2 facilitation tips
 
-## No AI account route
+## No AI account route (default)
 
 All outputs are pre-supplied on the worksheet. Participants never need to log into an AI tool.
+
+## Optional live-tool lab
+
+Organizations with a written approved tool may use the [live-tool lab route](live-tool-lab-route.md). Synthetic data only. Participants without accounts stay on the pre-supplied route.
 
 ## Low-bandwidth
 
 - Send Case 2 source and AI summary as plain text files before the session
-- Use async pair work: partners comment on worksheet within 24 hours, debrief live
+- **Synchronous route:** phone plus chat; no breakouts if unstable; co-host collects typed answers
+- Async pair work only when live join is impossible: partners comment within 48 hours, debrief live
 
 ## Common confusions
 

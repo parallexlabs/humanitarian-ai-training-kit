@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" width="640" height="200" viewBox="0 0 640 200">
+  <title>Data responsibility lifecycle across the humanitarian programme cycle</title>
+  <desc>Seven linked stages: plan, assess, collect, share, analyse, store, and close. Aligns with IASC operational guidance.</desc>
+  <rect width="640" height="200" fill="#ffffff"/>
+  <g font-family="Arial, sans-serif" font-size="11" fill="#1a1a1a">
+    <rect x="8" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="46" y="97" text-anchor="middle">Plan</text>
+    <rect x="96" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="134" y="97" text-anchor="middle">Assess</text>
+    <rect x="184" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="222" y="97" text-anchor="middle">Collect</text>
+    <rect x="272" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="310" y="97" text-anchor="middle">Share</text>
+    <rect x="360" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="398" y="97" text-anchor="middle">Analyse</text>
+    <rect x="448" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="486" y="97" text-anchor="middle">Store</text>
+    <rect x="536" y="70" width="76" height="44" rx="4" fill="#e8f0fe" stroke="#3366cc"/>
+    <text x="574" y="97" text-anchor="middle">Close</text>
+    <path d="M84 92 H96 M172 92 H184 M260 92 H272 M348 92 H360 M436 92 H448 M524 92 H536" stroke="#666" fill="none" marker-end="url(#arrow2)"/>
+    <text x="320" y="40" text-anchor="middle" font-size="12" font-weight="bold">Humanitarian programme cycle (data responsibility)</text>
+    <text x="320" y="160" text-anchor="middle" font-size="10" fill="#555">Apply at each stage before using AI on operational data</text>
+  </g>
+  <defs>
+    <marker id="arrow2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#666"/>
+    </marker>
+  </defs>
+</svg>

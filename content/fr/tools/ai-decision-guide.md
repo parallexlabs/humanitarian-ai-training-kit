@@ -2,6 +2,10 @@
 
 **Une page pour référence rapide.** Utiliser avec les politiques de votre organisation. L'utilisation en classe ne constitue pas une consultation avec les personnes touchées ou les partenaires.
 
+![Flux de décision sur l'utilisation de l'IA en sept étapes se terminant par vert, ambre ou rouge](/assets/images/ai-decision-flow.svg)
+
+**Équivalent textuel :** Objectif, personnes, données, outil, vérification, contrôle humain, suivi, puis enregistrer vert, ambre ou rouge avec un responsable. Tableau complet dans les [aides visuelles](visual-aids.md).
+
 ## Sept questions avant d'utiliser l'IA
 
 | Étape | Question | Arrêter si... |

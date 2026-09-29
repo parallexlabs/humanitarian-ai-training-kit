@@ -2,6 +2,32 @@
 
 All notable changes to this project are documented here.
 
+## [1.2.0] - 2026-09-29
+
+### Added
+
+- Facilitator delivery guide with per-session cues, misconceptions, cut lists, and safeguarding escalation (EN/FR)
+- Safeguarding and protection module in Session 3 and data-responsibility checklist (EN/FR)
+- Delivery artifacts: sample invitation email, participant handbook, facilitator preparation checklist, technology and accessibility checklist (EN/FR)
+- AAP adaptation design note for adopting organizations (EN/FR)
+- Visual aids page with AI decision flow and data-responsibility lifecycle diagrams plus text equivalents (EN/FR)
+- Optional Session 2 live-tool lab route for org-approved tools with synthetic data only (EN/FR)
+- `QUALITY_BAR.md` acceptance criteria
+
+### Changed
+
+- Pre/post assessment: performance scenarios with skills rubric as primary measure; self-efficacy secondary (EN/FR)
+- References: publisher dates, Accessed 2026-09-29, OCHA January 2025 / published 20 February 2025, Directive scope note for NGOs (EN/FR)
+- Curriculum overview, facilitation tips: synchronous low-bandwidth phone-plus-chat route (EN/FR)
+- README: French quality, parity checks, terminology glossary, professional review status
+
+### Fixed
+
+- References: removed a literature citation that could not be verified and a pointer to an internal verification log; the themes table now maps only to the verified sources listed in the same file (EN/FR)
+- Pre/post knowledge item 12: the marked answer was wrong; the correct option now states that role play is practice only and does not replace consultation with affected people (EN/FR)
+- Pre/post knowledge items: correct answers are now spread across options A to D (previously 10 of 12 were B) (EN/FR)
+- Directive on Automated Decision-Making: link moved to the Treasury Board policy page after the Canada.ca address stopped resolving (EN/FR)
+
 ## [1.1.0] - 2026-09-29
 
 ### Added

@@ -3,8 +3,9 @@
 ## Low-bandwidth settings
 
 - Email case text and worksheet 48 hours before the session
+- **Synchronous route:** phone dial-in plus typed chat; facilitator reads chat aloud; no video required (see [technology checklist](../../tools/technology-accessibility-checklist.md))
 - Use plenary discussion instead of breakouts if connections drop
-- Accept worksheet submissions by email within 24 hours
+- **Asynchronous fallback only when live join is impossible:** worksheet within 48 hours
 - Avoid video-heavy slides; all content is text-based
 
 ## Inclusion

@@ -81,7 +81,8 @@ For skills assessment during case practice, facilitators should aim for **no mor
 ### Low-bandwidth adaptations
 
 - Distribute case materials as plain text before the session
-- Use asynchronous worksheet completion with a 48-hour debrief window
+- **Synchronous:** phone dial-in plus typed chat; facilitator reads contributions aloud (see [technology checklist](tools/technology-accessibility-checklist.md))
+- **Asynchronous fallback** when live join is impossible: worksheet within 48 hours and debrief window
 - Offer a text-only participation route without breakout rooms
 - See facilitation tips in each session folder for more detail
 
@@ -97,11 +98,19 @@ Each session folder contains:
 - Participant worksheet
 - Answer key and debrief questions
 
-Additional resources: eight synthetic case studies, pre/post assessment, skills rubric, evaluation form, decision guide, data-responsibility checklist, and references.
+Additional resources: eight synthetic case studies, pre/post assessment, skills rubric, evaluation form, decision guide, data-responsibility checklist, facilitator guide, participant handbook, and references.
 
 ## Assessment approach
 
-A 12-item knowledge and confidence check plus 5 self-efficacy items is administered before Session 1 and after Session 3. A four-point skills rubric scores practical exercises. See the [assessment folder](assessment/pre-post-check.md) for scoring guidance and honest interpretation of small samples.
+Performance scenarios scored with the [four-point skills rubric](assessment/skills-rubric.md) are the **primary** pre/post measure. Five self-efficacy items are secondary. An optional 12-item knowledge check supplements reporting. See the [assessment folder](assessment/pre-post-check.md) for scoring guidance and how to read small samples constructively.
+
+## Delivery and adaptation resources
+
+- [Facilitator delivery guide](tools/facilitator-guide.md), [preparation checklist](tools/facilitator-preparation-checklist.md), and [sample invitation email](tools/sample-invitation-agenda-email.md)
+- [Participant handbook](tools/participant-handbook.md) and [technology and accessibility checklist](tools/technology-accessibility-checklist.md) (captioning plan; synchronous phone-plus-chat low-bandwidth route)
+- [Visual aids](tools/visual-aids.md) with diagrams and text equivalents
+- [AAP adaptation design note](tools/aap-adaptation-design-note.md) for organizations adapting the kit (no claim of prior community consultation in this repository)
+- Optional [Session 2 live-tool lab](sessions/session-02-verified-work/live-tool-lab-route.md) for org-approved tools with synthetic data only
 
 ## Evidence matrix
 

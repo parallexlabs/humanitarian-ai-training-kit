@@ -1,13 +1,18 @@
 # Conseils d'animation, séance 2
 
-## Voie sans compte IA
+## Voie sans compte IA (par défaut)
 
-Toutes les sorties sont pré-fournies sur la feuille de travail. Aucun compte IA n'est nécessaire. Les participants n'ont jamais besoin de se connecter à un outil d'IA.
+Toutes les sorties sont pré-fournies sur la feuille de travail. Les participants n'ont jamais besoin de se connecter à un outil d'IA.
+
+## Laboratoire outil en direct optionnel
+
+Les organisations avec un outil approuvé par écrit peuvent utiliser la [voie laboratoire outil en direct](live-tool-lab-route.md). Données synthétiques seulement. Les participants sans compte restent sur la voie pré-fournie.
 
 ## Faible bande passante
 
 - Envoyer la source du cas 2 et le résumé IA comme fichiers texte avant la séance
-- Utiliser le travail en binômes asynchrone : les partenaires commentent la feuille de travail dans les 24 heures, débriefing en direct
+- **Voie synchrone :** téléphone plus clavardage; pas de sous-groupes si instable; le co-animateur collecte les réponses écrites
+- Travail en binômes asynchrone seulement quand la participation en direct est impossible : les partenaires commentent dans les 48 heures, débriefing en direct
 
 ## Confusions courantes
 

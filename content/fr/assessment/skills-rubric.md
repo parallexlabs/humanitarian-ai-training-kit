@@ -1,6 +1,6 @@
 # Grille de compétences pour les exercices pratiques
 
-Utiliser pendant la pratique de cas des séances 1 à 3. Attribuer **un point par critère** (maximum 4 par exercice).
+Utiliser pendant la pratique de cas des séances 1 à 3 et pour les **scénarios de performance pré/post principaux** dans la [pré/post-évaluation](pre-post-check.md). Attribuer **un point par critère** (maximum 4 par exercice ou scénario).
 
 ## Critères (toutes les séances)
 
@@ -24,17 +24,17 @@ Rejeter toute utilisation de l'IA **ne constitue pas** une maîtrise. Les partic
 
 ## Notes de notation pour l'animateur
 
-- Noter à partir de la feuille de travail du participant; la notation ne provient pas de l'éloquence en plénière
+- Noter à partir de la feuille de travail du participant, ne constitue pas une notation de l'éloquence en plénière
 - Les animateurs ne accordent pas de crédit partiel; utiliser 0 ou 1 par ligne
 - Si un groupe n'est pas d'accord, enregistrer la décision majoritaire et noter la dissidence au débriefing
-- Les animateurs ne classent pas les individus ou les organisations dans les rapports agrégés
+- Ne classez pas les individus ou les organisations dans les rapports agrégés
 
 ## Exemple d'exercice noté (cas SMS, séance 1)
 
 | Critère | Exemple de preuve | Score |
 |---------|-------------------|-------|
 | Décision d'entrée/utilisation | Rouge : le brouillon contredit la source et dépasse l'autorité du réviseur | 1 |
-| Vérification des sources | Comparé chaque ligne au bulletin W1 à 10 h 00 | 1 |
+| Vérification des sources | Comparé chaque ligne au bulletin W1 à 10:00 | 1 |
 | Biais/omission | Noté l'erreur d'accessibilité (« toutes les entrées » vs une seule de plain-pied) | 1 |
 | Contrôle humain | Nommé le responsable des communications locales pour approbation | 1 |
 

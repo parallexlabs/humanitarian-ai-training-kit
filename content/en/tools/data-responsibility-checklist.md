@@ -1,6 +1,10 @@
 # Data-responsibility checklist for AI tools
 
-Use before entering any data into an AI tool. Aligns with [IASC Operational Guidance on Data Responsibility (2023)](https://centre.humdata.org/revised-iasc-operational-guidance-on-data-responsibility-in-humanitarian-action/) and [OCHA Data Responsibility Guidelines (2025)](https://centre.humdata.org/data-responsibility-guidelines-2025/).
+Use before entering any data into an AI tool. Aligns with [IASC Operational Guidance on Data Responsibility (2023)](https://centre.humdata.org/revised-iasc-operational-guidance-on-data-responsibility-in-humanitarian-action/) and [OCHA Data Responsibility Guidelines (January 2025)](https://centre.humdata.org/data-responsibility-guidelines-2025/).
+
+![Data responsibility lifecycle: plan, assess, collect, share, analyse, store, close](/assets/images/data-responsibility-lifecycle.svg)
+
+**Text equivalent:** Plan, assess, collect, share, analyse, store, close. Apply at each stage before using AI on operational data. See [visual aids](visual-aids.md).
 
 ## Before you type
 
@@ -10,6 +14,15 @@ Use before entering any data into an AI tool. Aligns with [IASC Operational Guid
 - [ ] I removed names, contact details, case numbers, and precise locations where not required.
 - [ ] I checked whether the vendor may use my input for model training or share it with third parties.
 - [ ] I know where data is processed and stored (country/region).
+
+## Safeguarding and protection
+
+- [ ] I am not entering child protection case notes, GBV survivor records, or other highly sensitive protection information unless explicitly approved for this tool and role.
+- [ ] I know my organization's safeguarding, PSEA, and protection focal points before handling disclosures or incidents.
+- [ ] If someone discloses harm in a meeting or chat, I will pause, avoid plenary detail, and refer to those focal points (not investigate myself).
+- [ ] I treat re-identification risk seriously: combined fields can identify people even without full names.
+
+Primary sources: [ICRC Handbook on Data Protection (3rd ed.)](../references.md); [Core Humanitarian Standard (2024)](../references.md) (Commitment 5). Not legal advice.
 
 ## During the task
 
@@ -33,7 +46,10 @@ Use before entering any data into an AI tool. Aligns with [IASC Operational Guid
 | Shelter locations tied to named individuals | Safety risk |
 | Donor financial details | Confidentiality and fraud risk |
 | Unvetted vendor with unclear data retention | Loss of control over sensitive data |
+| GBV or child protection details in unapproved tools | Severe harm and policy breach |
 
 ## Need help?
 
-Escalate to your privacy lead, protection adviser, or IT security team. Amber and red decisions require organizational review, not individual judgment alone.
+Escalate to your privacy lead, protection adviser, safeguarding or PSEA focal point, or IT security team. Amber and red decisions require organizational review, not individual judgment alone.
+
+See [Session 3 safeguarding module](../sessions/session-03-governance/safeguarding-module.md) and [facilitator guide](facilitator-guide.md) for training-room escalation.

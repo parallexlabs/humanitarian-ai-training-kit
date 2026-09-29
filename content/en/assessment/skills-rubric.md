@@ -1,6 +1,6 @@
 # Skills rubric for practical exercises
 
-Use during Sessions 1 to 3 case practice. Award **one point per criterion** (maximum 4 per exercise).
+Use during Sessions 1 to 3 case practice and for **primary pre/post performance scenarios** in the [pre/post check](pre-post-check.md). Award **one point per criterion** (maximum 4 per exercise or scenario).
 
 ## Criteria (all sessions)
 

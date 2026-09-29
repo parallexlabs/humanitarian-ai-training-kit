@@ -3,8 +3,9 @@
 ## Contexte à faible bande passante
 
 - Envoyer le texte du cas et la feuille de travail 48 heures avant la séance
+- **Voie synchrone :** appel téléphonique plus clavardage écrit; l'animateur lit le clavardage à voix haute; vidéo non requise (voir la [liste technologie](../../tools/technology-accessibility-checklist.md))
 - Utiliser une discussion en plénière au lieu des sous-groupes si les connexions tombent
-- Accepter les feuilles de travail par courriel dans les 24 heures
+- **Solution de repli asynchrone seulement quand la participation en direct est impossible :** feuille de travail dans les 48 heures
 - Éviter les diapositives lourdes en vidéo; tout le contenu est textuel
 
 ## Inclusion
@@ -16,7 +17,7 @@
 
 ## Moments difficiles
 
-**Un participant partage des données de cas réelles :** Pause de l'activité. Demander au co-animateur de retirer du clavardage selon les règles de la plateforme. Référer en privé au contact de l'organisation hôte. Les animateurs ne copient pas ces données dans les notes.
+**Un participant partage des données de cas réelles :** Pause de l'activité. Demander au co-animateur de retirer du clavardage selon les règles de la plateforme. Référer en privé au contact de l'organisation hôte. Ne pas copier dans les notes.
 
 **« L'IA est toujours dangereuse » :** Reconnaître le risque. Rediriger vers le filtre : des usages verts existent avec vérifications. La maîtrise exige de la discrimination, pas un refus global.
 

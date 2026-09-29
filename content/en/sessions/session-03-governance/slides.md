@@ -48,6 +48,15 @@ No live data in the classroom exercise.
 
 ---
 
+# Safeguarding and protection
+
+- Child protection and GBV-related data: default **red** in unapproved tools
+- Disclosures in training: pause, refer to org focal points, do not investigate in plenary
+- PSEA reporting routes must be known before incidents
+- See safeguarding module and data-responsibility checklist
+
+---
+
 # Pilot charter (essentials)
 
 - Task and non-AI baseline
