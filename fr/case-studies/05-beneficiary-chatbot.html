@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Étude de cas 5 : Réponse du clavardbot aux bénéficiaires | Humanitarian AI Training Kit</title>
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header" role="banner">
+    <p><strong>ParalleX Labs</strong> Humanitarian AI Training Kit</p>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="/fr/curriculum-overview.html">Aperçu du programme</a></li><li><a href="/fr/sessions/session-01-foundations/index.html">Séance 1</a></li><li><a href="/fr/sessions/session-02-verified-work/index.html">Séance 2</a></li><li><a href="/fr/sessions/session-03-governance/index.html">Séance 3</a></li><li><a href="/fr/sessions/clinic/index.html">Clinique</a></li><li><a href="/fr/sessions/short-source-check/index.html">Activité courte</a></li><li><a href="/fr/case-studies/index.html">Études de cas</a></li><li><a href="/fr/assessment/index.html">Évaluation</a></li><li><a href="/fr/tools/index.html">Outils</a></li><li><a href="/fr/references.html">Références</a></li>
+        <li><a href="/en/case-studies/05-beneficiary-chatbot.html" hreflang="en" lang="en">English</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main" role="main">
+    <div class="lang-notice" role="note">French version prepared with machine assistance; human review by a professional translator is recommended before use.</div>
+    <h1>Étude de cas 5 : Réponse du clavardbot aux bénéficiaires</h1>
+    <div class="synthetic-label">
+<strong>SYNTHETIC</strong> Transcription de clavardbot fictive pour la formation seulement.
+</div>
+<h2 id="scénario">Scénario</h2>
+<p>Votre organisation pilote un clavardbot destiné aux bénéficiaires pour les FAQ sur les heures d’inscription et les documents requis.</p>
+<p><strong>Source FAQ approuvée F1 :</strong> « L’inscription au site Sud est les mardis de 09 h 00 à 14 h 00. Apportez une pièce d’identité nationale ou une lettre de référence du partenaire Gamma. »</p>
+<p><strong>Question du bénéficiaire :</strong> « Puis-je m’inscrire lundi au site Nord? »</p>
+<p><strong>Réponse du clavardbot :</strong> « Oui. L’inscription au site Nord est ouverte du lundi au vendredi de 08 h 00 à 17 h 00. Apportez toute pièce d’identité avec photo. »</p>
+<h2 id="votre-tâche-10-minutes">Votre tâche (10 minutes)</h2>
+<ol type="1">
+<li>Comparez la réponse à F1.</li>
+<li>Qui pourrait être blessé?</li>
+<li>La réponse du clavardbot doit-elle circuler sans examen humain obligatoire?</li>
+<li>Quel suivi ou quelle règle d’arrêt recommanderiez-vous?</li>
+</ol>
+<h2 id="réponse-modèle">Réponse modèle</h2>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 13%" />
+<col style="width: 33%" />
+<col style="width: 27%" />
+</colgroup>
+<thead>
+<tr>
+<th>Élément</th>
+<th>F1</th>
+<th>Clavardbot</th>
+<th>Problème</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Site</td>
+<td>Sud seulement dans F1</td>
+<td>Nord</td>
+<td>Mauvais emplacement</td>
+</tr>
+<tr>
+<td>Jour</td>
+<td>Mardi</td>
+<td>Lundi-vendredi</td>
+<td>Mauvais horaire</td>
+</tr>
+<tr>
+<td>Documents</td>
+<td>Pièce d’identité ou référence Gamma</td>
+<td>Toute pièce avec photo</td>
+<td>Mauvaises exigences</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Préjudice :</strong> Exclusion (voyage vers le mauvais site), refus de service (mauvais documents), perte de confiance.</p>
+<p><strong>Décision :</strong> Rouge pour envoi automatique. Examen humain requis pour toute réponse hors correspondance exacte avec la FAQ. Arrêter le pilote si les réponses de mauvais site dépassent le seuil convenu (p. ex. tout emplacement erroné confirmé).</p>
+<h2 id="erreurs-courantes">Erreurs courantes</h2>
+<ul>
+<li>Supposer que le clavardbot utilise seulement le fichier FAQ sans tester les questions limites</li>
+<li>Mesurer la réussite par le volume de clavardages plutôt que par l’exactitude</li>
+<li>Voie d’escalade vers un travailleur social humain absente</li>
+</ul>
+<h2 id="principe-enseigné">Principe enseigné</h2>
+<p><strong>Clavardbots humanitaires :</strong> Les bénéficiaires peuvent traiter les réponses comme faisant autorité. De fausses informations logistiques causent de vrais préjudices. Tester et surveiller en continu.</p>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>© ParalleX Labs Inc. Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+    Code licensed <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0</a>.</p>
+    <p>Learning materials only. Not a record of delivered training.</p>
+  </footer>
+</body>
+</html>

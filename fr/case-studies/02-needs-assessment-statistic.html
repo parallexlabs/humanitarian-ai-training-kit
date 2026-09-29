@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Étude de cas 2 : Résumé d&#x27;évaluation des besoins avec statistique inventée | Humanitarian AI Training Kit</title>
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header" role="banner">
+    <p><strong>ParalleX Labs</strong> Humanitarian AI Training Kit</p>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="/fr/curriculum-overview.html">Aperçu du programme</a></li><li><a href="/fr/sessions/session-01-foundations/index.html">Séance 1</a></li><li><a href="/fr/sessions/session-02-verified-work/index.html">Séance 2</a></li><li><a href="/fr/sessions/session-03-governance/index.html">Séance 3</a></li><li><a href="/fr/sessions/clinic/index.html">Clinique</a></li><li><a href="/fr/sessions/short-source-check/index.html">Activité courte</a></li><li><a href="/fr/case-studies/index.html">Études de cas</a></li><li><a href="/fr/assessment/index.html">Évaluation</a></li><li><a href="/fr/tools/index.html">Outils</a></li><li><a href="/fr/references.html">Références</a></li>
+        <li><a href="/en/case-studies/02-needs-assessment-statistic.html" hreflang="en" lang="en">English</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main" role="main">
+    <div class="lang-notice" role="note">French version prepared with machine assistance; human review by a professional translator is recommended before use.</div>
+    <h1>Étude de cas 2 : Résumé d&#x27;évaluation des besoins avec statistique inventée</h1>
+    <div class="synthetic-label">
+<strong>SYNTHETIC</strong> Extrait MEAL fictif et résumé IA pour la formation seulement.
+</div>
+<h2 id="scénario">Scénario</h2>
+<p>Un outil d’IA a produit un résumé d’un paragraphe d’un rapport d’évaluation des besoins pour une réunion de financement.</p>
+<p><strong>Source autorisée (extrait S2, mars 2026) :</strong> « Dans le district exemple, 412 ménages ont été sondés dans 6 villages. 31 % ont signalé un accès insuffisant à l’eau en saison sèche. L’enquête ne estime pas la prévalence à l’échelle du district. »</p>
+<p><strong>Résumé IA :</strong> « Environ 78 % des ménages du district exemple n’ont pas d’eau potable fiable, ce qui indique des lacunes WASH graves nécessitant une montée en charge urgente. »</p>
+<h2 id="votre-tâche-10-minutes">Votre tâche (10 minutes)</h2>
+<ol type="1">
+<li>Quelles affirmations du résumé nécessitent une vérification contre S2?</li>
+<li>Marquez chaque affirmation : fondée, non fondée ou contredite.</li>
+<li>Quel préjudice pourrait suivre si le chiffre de 78 % est utilisé dans une présentation aux donateurs?</li>
+<li>Vert, ambre ou rouge pour utiliser ce résumé tel quel?</li>
+</ol>
+<h2 id="réponse-modèle">Réponse modèle</h2>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 52%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr>
+<th>Affirmation</th>
+<th>Vérification contre S2</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>78 % ne disposent pas d’eau potable fiable</td>
+<td>S2 dit 31 % d’eau insuffisante (saison sèche); pas de chiffre à l’échelle du district</td>
+<td>Contredite/inventée</td>
+</tr>
+<tr>
+<td>« Lacunes WASH graves »</td>
+<td>Subjectif; ne constitue pas une citation directe de S2</td>
+<td>Escalade non fondée</td>
+</tr>
+<tr>
+<td>412 ménages / 6 villages</td>
+<td>Ne figure pas dans le résumé IA</td>
+<td>Omission de la portée de l’échantillon</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Décision :</strong> Rouge pour utilisation opérationnelle ou auprès des donateurs sans réécriture. Ambre si utilisé en interne avec l’étiquette claire « brouillon, non vérifié » et correction immédiate.</p>
+<p><strong>Préjudice :</strong> Des besoins surestimés peuvent détourner les fonds; une confiance sous-estimée en l’IA peut se répéter dans de futures crises.</p>
+<h2 id="erreurs-courantes">Erreurs courantes</h2>
+<ul>
+<li>Arrondir 31 % à « environ un tiers » sans noter la saisonnalité (mineur) vs inventer 78 % (majeur)</li>
+<li>Ajouter des adjectifs (« grave », « urgent ») absents de la source</li>
+<li>Omettre la taille de l’échantillon et les limites de généralisation</li>
+</ul>
+<h2 id="principe-enseigné">Principe enseigné</h2>
+<p><strong>Statistiques hallucinées :</strong> L’IA peut inventer des chiffres plausibles. Chaque chiffre important nécessite une source tracée et une date.</p>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>© ParalleX Labs Inc. Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+    Code licensed <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0</a>.</p>
+    <p>Learning materials only. Not a record of delivered training.</p>
+  </footer>
+</body>
+</html>

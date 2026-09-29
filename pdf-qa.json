@@ -1,0 +1,745 @@
+{
+  "verapdf": [
+    {
+      "file": "build/en/assessment/evaluation-form.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/pre-post-check.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/sample-final-report-page.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/skills-rubric.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/01-evacuation-sms-translation.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/02-needs-assessment-statistic.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/03-donor-report-draft.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/04-protection-case-note.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/05-beneficiary-chatbot.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/06-procurement-memo.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/07-data-sharing-request.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/08-vendor-pitch.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/curriculum-overview.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/references.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/short-source-check/activity.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/ai-decision-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/data-responsibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/evaluation-form.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/pre-post-check.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/sample-final-report-page.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/skills-rubric.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/01-evacuation-sms-translation.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/02-needs-assessment-statistic.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/03-donor-report-draft.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/04-protection-case-note.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/05-beneficiary-chatbot.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/06-procurement-memo.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/07-data-sharing-request.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/08-vendor-pitch.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/curriculum-overview.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/references.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/short-source-check/activity.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/ai-decision-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/data-responsibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    }
+  ],
+  "qpdf": [
+    {
+      "file": "build/en/assessment/evaluation-form.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/pre-post-check.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/sample-final-report-page.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/assessment/skills-rubric.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/01-evacuation-sms-translation.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/02-needs-assessment-statistic.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/03-donor-report-draft.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/04-protection-case-note.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/05-beneficiary-chatbot.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/06-procurement-memo.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/07-data-sharing-request.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/case-studies/08-vendor-pitch.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/curriculum-overview.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/references.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/clinic/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-01-foundations/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-02-verified-work/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/session-03-governance/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/sessions/short-source-check/activity.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/ai-decision-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/data-responsibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/evaluation-form.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/pre-post-check.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/sample-final-report-page.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/assessment/skills-rubric.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/01-evacuation-sms-translation.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/02-needs-assessment-statistic.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/03-donor-report-draft.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/04-protection-case-note.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/05-beneficiary-chatbot.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/06-procurement-memo.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/07-data-sharing-request.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/case-studies/08-vendor-pitch.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/curriculum-overview.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/references.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/clinic/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-01-foundations/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-02-verified-work/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/answer-key.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/facilitation-tips.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/learning-objectives.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/run-sheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/slides.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/speaker-notes.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/session-03-governance/worksheet.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/sessions/short-source-check/activity.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/ai-decision-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/data-responsibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    }
+  ],
+  "passed": true,
+  "total": 92,
+  "passed_count": 92
+}

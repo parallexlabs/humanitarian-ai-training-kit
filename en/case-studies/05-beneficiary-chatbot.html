@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Case study 5: Chatbot answer to beneficiaries | Humanitarian AI Training Kit</title>
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header" role="banner">
+    <p><strong>ParalleX Labs</strong> Humanitarian AI Training Kit</p>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="/en/curriculum-overview.html">Curriculum overview</a></li><li><a href="/en/sessions/session-01-foundations/index.html">Session 1</a></li><li><a href="/en/sessions/session-02-verified-work/index.html">Session 2</a></li><li><a href="/en/sessions/session-03-governance/index.html">Session 3</a></li><li><a href="/en/sessions/clinic/index.html">Clinic</a></li><li><a href="/en/sessions/short-source-check/index.html">Short activity</a></li><li><a href="/en/case-studies/index.html">Case studies</a></li><li><a href="/en/assessment/index.html">Assessment</a></li><li><a href="/en/tools/index.html">Tools</a></li><li><a href="/en/references.html">References</a></li>
+        <li><a href="/fr/case-studies/05-beneficiary-chatbot.html" hreflang="fr" lang="fr">Français</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main" role="main">
+    
+    <h1>Case study 5: Chatbot answer to beneficiaries</h1>
+    <div class="synthetic-label">
+<strong>SYNTHETIC</strong> Fictional chatbot transcript for training only.
+</div>
+<h2 id="scenario">Scenario</h2>
+<p>Your organization pilots a beneficiary-facing chatbot for FAQ about registration hours and document requirements.</p>
+<p><strong>Approved FAQ source F1:</strong> “Registration at Site South is Tuesdays 09:00 to 14:00. Bring national ID or referral letter from Partner Gamma.”</p>
+<p><strong>Beneficiary question:</strong> “Can I register on Monday at Site North?”</p>
+<p><strong>Chatbot reply:</strong> “Yes. Registration at Site North is open Monday to Friday 08:00 to 17:00. Bring any photo ID.”</p>
+<h2 id="your-task-10-minutes">Your task (10 minutes)</h2>
+<ol type="1">
+<li>Compare the reply to F1.</li>
+<li>Who could be harmed?</li>
+<li>Should the chatbot answer stand without human review?</li>
+<li>What monitoring or stop rule would you recommend?</li>
+</ol>
+<h2 id="model-answer">Model answer</h2>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>F1</th>
+<th>Chatbot</th>
+<th>Problem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Site</td>
+<td>South only in F1</td>
+<td>North</td>
+<td>Wrong location</td>
+</tr>
+<tr>
+<td>Day</td>
+<td>Tuesday</td>
+<td>Monday-Friday</td>
+<td>Wrong schedule</td>
+</tr>
+<tr>
+<td>Documents</td>
+<td>ID or Gamma referral</td>
+<td>Any photo ID</td>
+<td>Wrong requirements</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Harm:</strong> Exclusion (travel to wrong site), denial of service (wrong documents), loss of trust.</p>
+<p><strong>Decision:</strong> Red for auto-send. Human review required for any answer outside exact FAQ match. Stop pilot if wrong-site answers exceed agreed threshold (e.g., any confirmed wrong location).</p>
+<h2 id="common-errors">Common errors</h2>
+<ul>
+<li>Assuming the chatbot only uses the FAQ file without testing edge questions</li>
+<li>Measuring success by volume of chats rather than accuracy</li>
+<li>No escalation path to a human caseworker</li>
+</ul>
+<h2 id="principle-taught">Principle taught</h2>
+<p><strong>Humanitarian chatbots:</strong> Beneficiaries may treat answers as authoritative. Wrong logistics information causes real harm. Test and monitor continuously.</p>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>© ParalleX Labs Inc. Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+    Code licensed <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0</a>.</p>
+    <p>Learning materials only. Not a record of delivered training.</p>
+  </footer>
+</body>
+</html>

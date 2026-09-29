@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Case study 2: Needs-assessment summary with invented statistic | Humanitarian AI Training Kit</title>
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header" role="banner">
+    <p><strong>ParalleX Labs</strong> Humanitarian AI Training Kit</p>
+    <nav aria-label="Primary">
+      <ul>
+        <li><a href="/en/curriculum-overview.html">Curriculum overview</a></li><li><a href="/en/sessions/session-01-foundations/index.html">Session 1</a></li><li><a href="/en/sessions/session-02-verified-work/index.html">Session 2</a></li><li><a href="/en/sessions/session-03-governance/index.html">Session 3</a></li><li><a href="/en/sessions/clinic/index.html">Clinic</a></li><li><a href="/en/sessions/short-source-check/index.html">Short activity</a></li><li><a href="/en/case-studies/index.html">Case studies</a></li><li><a href="/en/assessment/index.html">Assessment</a></li><li><a href="/en/tools/index.html">Tools</a></li><li><a href="/en/references.html">References</a></li>
+        <li><a href="/fr/case-studies/02-needs-assessment-statistic.html" hreflang="fr" lang="fr">Français</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main id="main" role="main">
+    
+    <h1>Case study 2: Needs-assessment summary with invented statistic</h1>
+    <div class="synthetic-label">
+<strong>SYNTHETIC</strong> Fictional MEAL excerpt and AI summary for training only.
+</div>
+<h2 id="scenario">Scenario</h2>
+<p>An AI tool produced a one-paragraph summary of a needs-assessment report for a funding meeting.</p>
+<p><strong>Authorized source (excerpt S2, March 2026):</strong> “In Sample District, 412 households were surveyed across 6 villages. 31% reported inadequate water access in the dry season. The survey does not estimate district-wide prevalence.”</p>
+<p><strong>AI summary:</strong> “Approximately 78% of households in Sample District lack reliable clean water, indicating severe WASH gaps requiring urgent scale-up.”</p>
+<h2 id="your-task-10-minutes">Your task (10 minutes)</h2>
+<ol type="1">
+<li>Which claims in the summary need verification against S2?</li>
+<li>Mark each claim: supported, unsupported, or contradicted.</li>
+<li>What harm could follow if the 78% figure is used in a donor deck?</li>
+<li>Green, amber, or red for using this summary as-is?</li>
+</ol>
+<h2 id="model-answer">Model answer</h2>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 52%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th>Claim</th>
+<th>Check against S2</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>78% lack clean water</td>
+<td>S2 says 31% inadequate water (dry season); no district-wide figure</td>
+<td>Contradicted/invented</td>
+</tr>
+<tr>
+<td>“Severe WASH gaps”</td>
+<td>Subjective; not a direct quote from S2</td>
+<td>Unsupported escalation</td>
+</tr>
+<tr>
+<td>412 households / 6 villages</td>
+<td>Not in AI summary</td>
+<td>Omission of sample scope</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Decision:</strong> Red for operational or donor use without rewrite. Amber if used internally with clear “draft, unverified” label and immediate correction.</p>
+<p><strong>Harm:</strong> Overstated needs may misdirect funds; understated trust in AI may repeat in future crises.</p>
+<h2 id="common-errors">Common errors</h2>
+<ul>
+<li>Rounding 31% to “about a third” without noting seasonality (minor) vs inventing 78% (major)</li>
+<li>Adding adjectives (“severe”, “urgent”) not in source</li>
+<li>Dropping sample size and limits of generalization</li>
+</ul>
+<h2 id="principle-taught">Principle taught</h2>
+<p><strong>Hallucinated statistics:</strong> AI can invent plausible numbers. Every consequential figure needs a traced source and date.</p>
+
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>© ParalleX Labs Inc. Content licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+    Code licensed <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0</a>.</p>
+    <p>Learning materials only. Not a record of delivered training.</p>
+  </footer>
+</body>
+</html>
