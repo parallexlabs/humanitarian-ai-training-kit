@@ -1,0 +1,52 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer qpdf
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: python -m playwright install chromium
+
+      - name: Build site and PDFs
+        run: python3 scripts/build.py --all
+
+      - name: Link check
+        run: python3 scripts/build.py --check-links
+
+      - name: PDF validation (if veraPDF available)
+        run: |
+          if command -v verapdf >/dev/null; then
+            python3 scripts/build.py --check-pdfs
+          else
+            echo "veraPDF not on runner; qpdf checks included in build --all"
+          fi
+
+      - name: Download axe-core
+        run: curl -sL -o scripts/axe.min.js https://cdn.jsdelivr.net/npm/axe-core@4.10.2/axe.min.js
+
+      - name: Accessibility audit (axe-core via Playwright)
+        run: python3 scripts/axe_audit.py
+
+      - name: EN/FR parity check
+        run: python3 scripts/compare_en_fr.py

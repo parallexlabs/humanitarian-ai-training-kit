@@ -1,0 +1,15 @@
+# Three-session training: deliverables and acceptance checklist
+
+**Illustrative training-design sample. Not a record of delivered work.** Agree owners, dates and formats before using this checklist for an engagement.
+
+| Stage | Deliverable | Acceptance check | Reviewer and record |
+| --- | --- | --- | --- |
+| Inception | One-page audience, objectives and access brief | Names the audience, three observable learning outcomes, permitted practice data, language/access needs, platform owner and decision contact. No participant case records are required. | Sponsor signs off the brief; retain version and date. |
+| Before each session | Agenda, accessible slides, editable text worksheet and synthetic/public source packet | Files open without a paid account. Headings, reading order, links, contrast and text alternatives are checked; a text-only route covers every activity. Source packets identify what is fact, what is invented for practice and what must not be used operationally. | Sponsor reviews materials by an agreed lead time; facilitator logs corrections. |
+| Session 1 | Foundations session and short baseline check | The session is delivered or rescheduled; each learner can distinguish a permitted low-risk exercise from one requiring review or a stop. Baseline response count is recorded without claiming improvement. | Attendance count, timing log and anonymous question themes. |
+| Session 2 | Applied practice session and answer key | Learners compare a supplied draft with its source, identify unsupported or missing facts, and record a human review decision. Both group and no-breakout routes are usable. | Completed sample response, facilitator answer key and issue log. |
+| Session 3 | Decision-and-transfer session | Learners use the same checks to draft one bounded next action, approval owner, fallback and stop condition. A short end check uses comparable difficulty to the baseline. | Count of submitted action plans and end-check responses, not a claim of workplace impact. |
+| Handoff | Reusable resource pack | Three agendas, accessible source files, worksheets, answer keys and a facilitator note are present, editable and consistently versioned; licence/reuse terms are stated. | Sponsor checks each file against the manifest and records exceptions. |
+| Reporting | One-page results and recommendations | Shows attendance by session; baseline/end denominators and missingness; observed task performance, feedback themes, limitations and prioritized next steps. Quotes are non-identifying and used only with permission. | Sponsor accepts the report or returns one consolidated correction list by an agreed date. |
+
+**Acceptance rule:** A deliverable is complete when its listed files and checks pass and the named reviewer records acceptance. A correction to an agreed deliverable is logged and resolved; a new audience, extra session, new language service or new platform is a change for separate written agreement. Attendance and learning targets are measured, not guaranteed.

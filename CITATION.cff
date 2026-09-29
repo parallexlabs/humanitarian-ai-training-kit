@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: Humanitarian AI Training Kit
+message: "If you use this training kit, please cite it as below."
+type: software
+authors:
+  - family-names: Daneshpajouh
+    given-names: Amirhossein
+    affiliation: ParalleX Labs Inc.
+  - name: ParalleX Labs Inc.
+repository-code: https://github.com/parallexlabs/humanitarian-ai-training-kit
+url: https://github.com/parallexlabs/humanitarian-ai-training-kit
+license: Apache-2.0
+license-url: https://www.apache.org/licenses/LICENSE-2.0
+version: 1.0.0
+date-released: 2026-09-28
+keywords:
+  - humanitarian action
+  - artificial intelligence
+  - responsible AI
+  - training
+  - data responsibility
+preferred-citation:
+  type: generic
+  title: "Humanitarian AI Training Kit"
+  authors:
+    - name: ParalleX Labs Inc.
+  year: 2026
+  notes: "Written content licensed CC BY 4.0; code licensed Apache-2.0."
