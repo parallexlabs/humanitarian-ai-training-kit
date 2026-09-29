@@ -125,6 +125,10 @@
       "ok": true
     },
     {
+      "file": "build/en/sessions/session-02-verified-work/live-tool-lab-route.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/sessions/session-02-verified-work/run-sheet.pdf",
       "ok": true
     },
@@ -157,6 +161,10 @@
       "ok": true
     },
     {
+      "file": "build/en/sessions/session-03-governance/safeguarding-module.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/sessions/session-03-governance/slides.pdf",
       "ok": true
     },
@@ -173,6 +181,10 @@
       "ok": true
     },
     {
+      "file": "build/en/tools/aap-adaptation-design-note.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/tools/ai-decision-guide.pdf",
       "ok": true
     },
@@ -182,6 +194,30 @@
     },
     {
       "file": "build/en/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/facilitator-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/facilitator-preparation-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/participant-handbook.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/sample-invitation-agenda-email.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/visual-aids.pdf",
       "ok": true
     },
     {
@@ -309,6 +345,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/sessions/session-02-verified-work/live-tool-lab-route.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/sessions/session-02-verified-work/run-sheet.pdf",
       "ok": true
     },
@@ -341,6 +381,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/sessions/session-03-governance/safeguarding-module.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/sessions/session-03-governance/slides.pdf",
       "ok": true
     },
@@ -357,6 +401,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/tools/aap-adaptation-design-note.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/tools/ai-decision-guide.pdf",
       "ok": true
     },
@@ -366,6 +414,30 @@
     },
     {
       "file": "build/fr/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/facilitator-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/facilitator-preparation-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/participant-handbook.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/sample-invitation-agenda-email.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/visual-aids.pdf",
       "ok": true
     }
   ],
@@ -495,6 +567,10 @@
       "ok": true
     },
     {
+      "file": "build/en/sessions/session-02-verified-work/live-tool-lab-route.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/sessions/session-02-verified-work/run-sheet.pdf",
       "ok": true
     },
@@ -527,6 +603,10 @@
       "ok": true
     },
     {
+      "file": "build/en/sessions/session-03-governance/safeguarding-module.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/sessions/session-03-governance/slides.pdf",
       "ok": true
     },
@@ -543,6 +623,10 @@
       "ok": true
     },
     {
+      "file": "build/en/tools/aap-adaptation-design-note.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/tools/ai-decision-guide.pdf",
       "ok": true
     },
@@ -552,6 +636,30 @@
     },
     {
       "file": "build/en/tools/deliverables-acceptance-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/facilitator-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/facilitator-preparation-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/participant-handbook.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/sample-invitation-agenda-email.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/visual-aids.pdf",
       "ok": true
     },
     {
@@ -679,6 +787,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/sessions/session-02-verified-work/live-tool-lab-route.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/sessions/session-02-verified-work/run-sheet.pdf",
       "ok": true
     },
@@ -711,6 +823,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/sessions/session-03-governance/safeguarding-module.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/sessions/session-03-governance/slides.pdf",
       "ok": true
     },
@@ -727,6 +843,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/tools/aap-adaptation-design-note.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/tools/ai-decision-guide.pdf",
       "ok": true
     },
@@ -737,9 +857,33 @@
     {
       "file": "build/fr/tools/deliverables-acceptance-checklist.pdf",
       "ok": true
+    },
+    {
+      "file": "build/fr/tools/facilitator-guide.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/facilitator-preparation-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/participant-handbook.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/sample-invitation-agenda-email.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/visual-aids.pdf",
+      "ok": true
     }
   ],
   "passed": true,
-  "total": 92,
-  "passed_count": 92
+  "total": 110,
+  "passed_count": 110
 }
