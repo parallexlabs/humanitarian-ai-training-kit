@@ -1,6 +1,10 @@
 # Pré/post-évaluation
 
-**Administrer avant la séance 1 et après la séance 3.** Utiliser des exemples de scénarios différents au post-test (mêmes concepts). Des codes détenus par les participants relient les réponses sans noms.
+**Niveau 2 de Kirkpatrick : apprentissage.** Administrer avant la séance 1 et après la séance 3. Utiliser des exemples de scénarios différents au post-test (mêmes concepts). Des codes détenus par les participants relient les réponses sans noms.
+
+**Référence :** Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). [*Kirkpatrick's Four Levels of Training Evaluation*](https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614). ATD Press.
+
+Voir aussi : [formulaire d'évaluation de séance](evaluation-form.md) (niveau 1 de Kirkpatrick : réaction) et [suivi de transfert à 30 jours](../tools/transfer-follow-up.md) (niveau 3 de Kirkpatrick : comportements autodéclarés). Le niveau 4 (résultats organisationnels) dépasse la portée de ce kit.
 
 ## Partie A : Scénarios de performance (mesure principale)
 

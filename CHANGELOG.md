@@ -2,6 +2,25 @@
 
 All notable changes to this project are documented here.
 
+## [1.3.0] - 2026-09-30
+
+### Added
+
+- 30-day workplace transfer follow-up tool (Kirkpatrick level 3, self-reported) with analysis guidance (EN/FR)
+- Facilitator reflection log with per-session entries and end-of-series synthesis (EN/FR)
+- Kirkpatrick levels 1 to 3 named on evaluation pages; level 4 noted as outside kit scope (EN/FR)
+- Session 3 transparency card exercise (15 minutes) with printable template and optional online tool link (EN/FR)
+- SAFE AI v1.2 crosswalk in the AI use decision guide (EN/FR)
+- ParalleX Labs brand mark in site header and README; favicon and apple-touch icon
+- References: SAFE AI v1.2 and Kirkpatrick (2016) (EN/FR)
+
+### Changed
+
+- Session 3 timing: challenge block shortened by 15 minutes for transparency card exercise; total session length unchanged (EN/FR)
+- Facilitator guide cut list documents challenge block as the permanent time source (EN/FR)
+- Sample final-report page includes 30-day transfer summary section (EN/FR)
+- README "What is included" updated for new tools and Kirkpatrick framing
+
 ## [1.2.1] - 2026-09-29
 
 ### Fixed

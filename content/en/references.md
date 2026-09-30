@@ -1,6 +1,6 @@
 # References
 
-Every factual claim in this kit links to a public primary source. Summaries are ours. We do not copy copyrighted text. Each entry lists a publisher-stated date where available and **Accessed 2026-09-29**.
+Every factual claim in this kit links to a public primary source. Summaries are ours. Quotations are identified, attributed and used under the stated licences. Each entry records its own access date.
 
 ## Core guidance (required)
 
@@ -135,6 +135,24 @@ Every factual claim in this kit links to a public primary source. Summaries are 
 - **Accessed:** 2026-09-29
 
 ## Learning and ethics resources
+
+### SAFE AI: Standards and Assurance for Ethical AI
+
+- **Publishers:** CDAC Network, The Alan Turing Institute, Humanitarian AI Advisory (stewarded by CDAC Network)
+- **Version:** 1.2, August 2026
+- **URL:** [https://www.cdacnetwork.org/safe-ai](https://www.cdacnetwork.org/safe-ai)
+- **Summary:** Tiered governance framework for ethical AI in humanitarian action. This kit includes a training-only crosswalk in the [AI use decision guide](tools/ai-decision-guide.md); it is not part of SAFE AI and is not endorsed by its authors.
+- **Licence/terms:** CC BY 4.0
+- **Accessed:** 2026-09-30
+
+### Kirkpatrick's Four Levels of Training Evaluation
+
+- **Authors:** Kirkpatrick, J. D., & Kirkpatrick, W. K.
+- **Publisher:** ATD Press
+- **Date:** 2016
+- **URL:** [https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614](https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614)
+- **Summary:** Framework for reaction, learning, behaviour, and results evaluation. This kit names levels 1 to 3 in assessment tools; level 4 is outside the kit's scope.
+- **Accessed:** 2026-09-30
 
 ### Ethical AI Use and Decision-Making in Humanitarian Work
 

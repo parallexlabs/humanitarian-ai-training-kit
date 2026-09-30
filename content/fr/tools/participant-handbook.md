@@ -24,7 +24,7 @@
 |--------|------------------|
 | 1 | Filtre en sept étapes; décisions vert, ambre, rouge; cas SMS de traduction |
 | 2 | Consignes structurées; tableaux de vérification des sources; choix de flux de travail par rôle |
-| 3 | Charte de pilote; options de gouvernance; lentille sauvegarde et protection |
+| 3 | Charte de pilote; exercice de fiche de transparence; options de gouvernance; lentille sauvegarde et protection |
 | Clinique | Questions de milieu de travail dé-identifiées seulement |
 
 ## Vos responsabilités
@@ -36,15 +36,18 @@
 
 ## Évaluation
 
-- **Avant la séance 1 :** Pré-évaluation (scénarios de performance et items de confiance courts)
+- **Avant la séance 1 :** Pré-évaluation (niveau 2 de Kirkpatrick : apprentissage; scénarios de performance et items de confiance courts)
 - **Après la séance 3 :** Post-évaluation (exemples différents, mêmes compétences)
+- **Après chaque séance :** Évaluation de séance optionnelle (niveau 1 de Kirkpatrick : réaction)
+- **Environ 30 jours après la série :** [Suivi de transfert](transfer-follow-up.md) optionnel (niveau 3 de Kirkpatrick : comportements autodéclarés)
 - **Pendant les séances :** Feuilles de travail notées avec une grille à quatre points
-- Les résultats sont rapportés de façon agrégée. Les petits groupes (15 à 40) ne permettent pas une analyse fiable par sous-groupe.
+- Les résultats sont rapportés de façon agrégée. Les petits groupes (15 à 40) ne permettent pas une analyse fiable par sous-groupe. Le niveau 4 (résultats organisationnels) dépasse la portée de ce kit.
 
 ## Matériel que vous recevrez
 
 - Feuilles de travail de séance et texte des cas (HTML et PDF)
 - [Liste de contrôle sur la responsabilité des données](data-responsibility-checklist.md)
+- [Modèle de fiche de transparence](transparency-card-template.md)
 - [Grille de compétences](../assessment/skills-rubric.md) (pour transparence)
 - Liens vers les [références](../references.md)
 

@@ -11,8 +11,8 @@ repository-code: https://github.com/parallexlabs/humanitarian-ai-training-kit
 url: https://github.com/parallexlabs/humanitarian-ai-training-kit
 license: Apache-2.0
 license-url: https://www.apache.org/licenses/LICENSE-2.0
-version: 1.0.0
-date-released: 2026-09-28
+version: 1.3.0
+date-released: 2026-09-30
 keywords:
   - humanitarian action
   - artificial intelligence

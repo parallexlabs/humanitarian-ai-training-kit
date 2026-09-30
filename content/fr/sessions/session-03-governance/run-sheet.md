@@ -7,8 +7,9 @@
 | 0:00 à 0:10 | Rappel | Lier les séances 1 à 2 à la gouvernance | Diapositive 2 |
 | 0:10 à 0:25 | Enseignement : politique vs commodité; module de sauvegarde (10 min) | Exemples vert/ambre/rouge; protection de l'enfance, données VBG, escalade PSEA | Diapositives 3 à 6; safeguarding-module.md |
 | 0:25 à 0:55 | Bloc de décision | Groupes utilisent le brief fictif (présentation fournisseur ou partage de données) | Cas 7 ou 8; modèle de charte |
-| 0:55 à 1:25 | Bloc de contestation | Groupes échangent; contestent depuis 3 perspectives; révisent | Cartes de contestation |
-| 1:25 à 1:30 | Clôture | Rappel post-évaluation; action de retour au travail | Diapositive 11 |
+| 0:55 à 1:10 | Exercice de rédaction d'une fiche de transparence | Binômes rédigent une fiche d'une page pour une utilisation d'IA d'une étude de cas; plan de participation des personnes touchées | transparency-card-template.md; outil en ligne optionnel |
+| 1:10 à 1:25 | Bloc de contestation (raccourci) | Contestation écrite d'un seul point de vue; brève révision | Cartes de contestation |
+| 1:25 à 1:30 | Clôture | Rappel post-évaluation; aperçu du suivi à 30 jours; action à mettre en pratique au travail | Diapositive 12 |
 
 ## Brief fictif (fourni)
 

@@ -100,8 +100,15 @@ def wrap_page(
 
     h1 = f"<h1>{html.escape(title)}</h1>" if not is_home else ""
     skip = '<a class="skip-link" href="#main">Skip to main content</a>'
+    brand = f"""<a class="site-brand" href="/{lang}/index.html">
+      <img src="/assets/images/brand/parallex-mark.png" alt="ParalleX Labs" width="120" height="32">
+    </a>"""
+    kit_label = "Humanitarian AI Training Kit" if lang == "en" else "Trousse de formation sur l'IA humanitaire"
     header = f"""<header class="site-header" role="banner">
-    <p><strong>ParalleX Labs</strong> Humanitarian AI Training Kit</p>
+    <div class="site-header-top">
+      {brand}
+      <p class="site-title">{html.escape(kit_label)}</p>
+    </div>
     <nav aria-label="Primary">
       <ul>
         {''.join(nav_links)}
@@ -121,6 +128,8 @@ def wrap_page(
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{html.escape(title)} | Humanitarian AI Training Kit</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/brand/parallex-favicon-32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/brand/parallex-apple-touch-180.png">
   <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>

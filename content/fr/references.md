@@ -1,6 +1,6 @@
 # Références
 
-Chaque affirmation factuelle de ce kit renvoie à une source primaire publique. Les résumés sont les nôtres. Nous ne reproduisons pas de texte protégé par le droit d'auteur. Chaque entrée indique une date publiée par l'éditeur lorsque disponible et **Consulté le 2026-09-29**.
+Chaque affirmation factuelle de ce kit renvoie à une source primaire publique. Les résumés sont les nôtres. Les citations sont signalées, attribuées et utilisées conformément aux licences indiquées. Chaque entrée indique sa propre date de consultation.
 
 ## Orientations fondamentales (obligatoires)
 
@@ -135,6 +135,24 @@ Chaque affirmation factuelle de ce kit renvoie à une source primaire publique. 
 - **Consulté :** 2026-09-29
 
 ## Ressources d'apprentissage et d'éthique
+
+### SAFE AI : Standards and Assurance for Ethical AI
+
+- **Éditeurs :** CDAC Network, The Alan Turing Institute, Humanitarian AI Advisory (géré par CDAC Network)
+- **Version :** 1.2, août 2026
+- **URL :** [https://www.cdacnetwork.org/safe-ai](https://www.cdacnetwork.org/safe-ai)
+- **Résumé :** Cadre de gouvernance par niveaux pour une IA éthique dans l'action humanitaire. Ce kit inclut un tableau croisé à des fins de formation seulement dans le [guide de décision sur l'utilisation de l'IA](tools/ai-decision-guide.md); il ne fait pas partie de SAFE AI et ses auteurs ne approuvent pas ce tableau croisé.
+- **Licence/conditions :** CC BY 4.0
+- **Consulté :** 2026-09-30
+
+### Kirkpatrick's Four Levels of Training Evaluation
+
+- **Auteurs :** Kirkpatrick, J. D., & Kirkpatrick, W. K.
+- **Éditeur :** ATD Press
+- **Date :** 2016
+- **URL :** [https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614](https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614)
+- **Résumé :** Cadre d'évaluation de la réaction, de l'apprentissage, du comportement et des résultats. Ce kit utilise les niveaux 1 à 3 dans ses outils d'évaluation; le niveau 4 est hors de sa portée.
+- **Consulté :** 2026-09-30
 
 ### Utilisation éthique de l'IA et prise de décision dans le travail humanitaire
 

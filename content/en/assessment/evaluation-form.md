@@ -1,6 +1,10 @@
 # Session evaluation form
 
-**Anonymous.** Optional after each session. Aggregate results only.
+**Kirkpatrick level 1 (reaction).** Anonymous. Optional after each session. Aggregate results only.
+
+**Reference:** Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). [*Kirkpatrick's Four Levels of Training Evaluation*](https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614). ATD Press.
+
+See also: [pre/post assessment](pre-post-check.md) (level 2 learning) and [30-day transfer follow-up](../tools/transfer-follow-up.md) (level 3 behaviour, self-reported). Level 4 (organizational results) is outside this kit's scope.
 
 ## About this session
 

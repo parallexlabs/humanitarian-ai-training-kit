@@ -24,7 +24,7 @@
 |---------|-------------------|
 | 1 | Seven-step screen; green, amber, red decisions; SMS translation case |
 | 2 | Structured prompts; source-check tables; role-based workflow choices |
-| 3 | Pilot charter; governance options; safeguarding and protection lens |
+| 3 | Pilot charter; transparency card exercise; governance options; safeguarding and protection lens |
 | Clinic | De-identified workplace questions only |
 
 ## Your responsibilities
@@ -36,15 +36,18 @@
 
 ## Assessment
 
-- **Before Session 1:** Pre-assessment (performance scenarios plus short confidence items)
+- **Before Session 1:** Pre-assessment (Kirkpatrick level 2 learning; performance scenarios plus short confidence items)
 - **After Session 3:** Post-assessment (different examples, same skills)
+- **After each session:** Optional session evaluation (Kirkpatrick level 1 reaction)
+- **About 30 days after the series:** Optional [transfer follow-up](transfer-follow-up.md) (Kirkpatrick level 3 behaviour, self-reported)
 - **During sessions:** Worksheets scored with a four-point rubric
-- Results are reported in aggregate. Small groups (15 to 40) cannot support reliable subgroup analysis.
+- Results are reported in aggregate. Small groups (15 to 40) cannot support reliable subgroup analysis. Level 4 (organizational results) is outside this kit's scope.
 
 ## Materials you will receive
 
 - Session worksheets and case text (HTML and PDF)
 - [Data-responsibility checklist](data-responsibility-checklist.md)
+- [Transparency card template](transparency-card-template.md)
 - [Skills rubric](../assessment/skills-rubric.md) (for transparency)
 - Links to [references](../references.md)
 

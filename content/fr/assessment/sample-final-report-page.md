@@ -2,7 +2,7 @@
 
 **Modèle de rapport illustratif. Les résultats ne sont pas présentés comme mesurés.** Remplacez les champs entre crochets seulement par des dénombrements ou un récit étayés par les sources; supprimez les détails identifiants.
 
-**Cohorte et prestation.** Public : [mixité des rôles, si sûr de le rapporter]. Dates des séances : [date 1], [date 2], [date 3]. Inscrits : [n]. Présence : Séance 1 [n], Séance 2 [n], Séance 3 [n]. Ce sont des dénombrements de présence, non des personnes uniques, sauf si les registres d'inscription le permettent. Changements de prestation ou ajustements d'accès : [ce qui a changé et pourquoi].
+**Cohorte et prestation.** Public : [mixité des rôles, si sûr de le rapporter]. Dates des séances : [date 1], [date 2], [date 3]. Inscrits : [n]. Présence : Séance 1 [n], Séance 2 [n], Séance 3 [n]. Ces chiffres comptabilisent les présences; ils ne représentent un nombre de personnes distinctes que si les registres d'inscription permettent de le déterminer. Changements de prestation ou ajustements d'accès : [ce qui a changé et pourquoi].
 
 | Mesure | Départ | Vérification finale | Interprétation |
 | --- | ---: | ---: | --- |
@@ -19,4 +19,6 @@
 
 **Recommandations.** 1. [Amélioration immédiate, responsable et date.] 2. [Soutien à la pratique ou au superviseur, responsable et date.] 3. [Une mesure de suivi limitée, y compris une option de non-action.] Toute utilisation au-delà de l'exercice de formation nécessite l'approbation propre de l'organisation en matière de confidentialité, de protection et d'opérations.
 
-**Registre des preuves.** Source de présence : [fichier/date]. Grille et corrigé : [version]. Instrument de rétroaction : [version]. Méthode d'agrégation et exclusions : [note brève]. Réviseur/acceptation : [nom ou rôle/date].
+**Transfert (30 jours, autodéclaré).** Taux de réponse : [n]/[n admissibles]. Distribution des réponses et nombre de réponses valides par question : [résumé]. Réponses « s.o. » et réponses manquantes : [dénombrements]. Principaux obstacles (dénombrements) : [liste]. Besoins de soutien (synthèse) : [résumé]. Source : [version/date de l'instrument de suivi de transfert].
+
+**Registre des preuves.** Source de présence : [fichier/date]. Grille et corrigé : [version]. Instrument de rétroaction : [version]. Instrument de transfert : [version]. Méthode d'agrégation et exclusions : [note brève]. Réviseur/acceptation : [nom ou rôle/date].

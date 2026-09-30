@@ -1,5 +1,7 @@
 # Humanitarian AI Training Kit
 
+<img src="assets/images/brand/parallex-mark.png" alt="ParalleX Labs" width="64" height="64">
+
 Open, bilingual (English and French), accessible training on using AI responsibly in humanitarian action. Designed for staff of Canadian humanitarian and development organizations.
 
 **These are learning materials, not a record of delivered training.**
@@ -24,7 +26,7 @@ French versions were prepared with machine assistance; human review by a profess
 
 **We build in the open.** ParalleX Labs Inc. publishes its tools, methods and learning materials under open licences, so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
 
-**Our own work, and only ours.** Everything in this repository was created by ParalleX Labs Inc. from public guidance and synthetic examples. It contains no client data, no client projects, and no one else's confidential information or intellectual property.
+**Our own work, and only ours.** ParalleX Labs Inc. created the learning design and synthetic examples. Public-source quotations are attributed and retain their original licences. This repository contains no client data, client projects or confidential material.
 
 ## What is included
 
@@ -32,8 +34,8 @@ French versions were prepared with machine assistance; human review by a profess
 - Three 90-minute sessions plus a 60-minute follow-up clinic (facilitator run sheets, slides, worksheets, answer keys)
 - Optional [15-minute source-check activity](content/en/sessions/short-source-check/activity.md) with breakout, plenary, and text-only routes
 - Eight synthetic case studies
-- Pre/post assessment, skills rubric, evaluation form, and [sample final-report page](content/en/assessment/sample-final-report-page.md)
-- [AI use decision guide](content/en/tools/ai-decision-guide.md), [data-responsibility checklist](content/en/tools/data-responsibility-checklist.md), [deliverables acceptance checklist](content/en/tools/deliverables-acceptance-checklist.md), [facilitator guide](content/en/tools/facilitator-guide.md), [participant handbook](content/en/tools/participant-handbook.md), and [technology checklist](content/en/tools/technology-accessibility-checklist.md)
+- Pre/post assessment (Kirkpatrick level 2), session evaluation form (level 1), [30-day transfer follow-up](content/en/tools/transfer-follow-up.md) (level 3, self-reported), skills rubric, and [sample final-report page](content/en/assessment/sample-final-report-page.md)
+- [AI use decision guide](content/en/tools/ai-decision-guide.md) with SAFE AI crosswalk, [transparency card template](content/en/tools/transparency-card-template.md), [facilitator reflection log](content/en/tools/facilitator-reflection-log.md), [data-responsibility checklist](content/en/tools/data-responsibility-checklist.md), [deliverables acceptance checklist](content/en/tools/deliverables-acceptance-checklist.md), [facilitator guide](content/en/tools/facilitator-guide.md), [participant handbook](content/en/tools/participant-handbook.md), and [technology checklist](content/en/tools/technology-accessibility-checklist.md)
 - [References](content/en/references.md) with public primary sources
 
 ## Build the site and PDFs
@@ -59,7 +61,7 @@ python3 scripts/build.py --check-pdfs
 
 veraPDF path used locally: `/opt/homebrew/bin/verapdf` (profile `-f ua1`)
 
-**PDF/UA-1 (last build):** 110 of 110 PDFs pass veraPDF `-f ua1` and `qpdf --check`. HTML remains the primary accessible format (WCAG 2.2 AA).
+**PDF/UA-1 (last build):** See `build/pdf-qa.json` after `python3 scripts/build.py --all`. HTML remains the primary accessible format (WCAG 2.2 AA).
 
 ### Accessibility audit
 
@@ -67,7 +69,7 @@ veraPDF path used locally: `/opt/homebrew/bin/verapdf` (profile `-f ua1`)
 python3 scripts/axe_audit.py
 ```
 
-Runs axe-core with WCAG 2.2 A and AA rule tags on every built page in English and French. **Last audit:** 0 violations across 129 pages.
+Runs axe-core with WCAG 2.2 A and AA rule tags on every built page in English and French. **Last audit:** see `build/axe-report.json` after build.
 
 ### Link check
 

@@ -58,3 +58,19 @@
 Write one line: **Decision (G/A/R), owner name, next review date.**
 
 Stop if the source is unverified or a human approval point is missing.
+
+## SAFE AI crosswalk (for training use only) {#safe-ai-crosswalk}
+
+**SAFE AI:** *Standards and Assurance for Ethical AI*, Version 1.2, August 2026, built by CDAC Network, The Alan Turing Institute and Humanitarian AI Advisory, stewarded by CDAC Network, licensed CC BY 4.0, [https://www.cdacnetwork.org/safe-ai](https://www.cdacnetwork.org/safe-ai).
+
+SAFE AI tiers describe the **level of governance a use needs**, based on its impact. This kit's green, amber, and red describe **what a staff member should do now**. They are **not equivalent**.
+
+| SAFE AI tier | Definition (verbatim) |
+|--------------|----------------------|
+| Tier 1 (Baseline) | "Internal, advisory AI use. Light-touch governance." |
+| Tier 2 (Enhanced) | "AI shapes operational decisions, with human oversight. Full assessment and assurance required." |
+| Tier 3 (High risk) | "AI directly affects people's access to assistance, protection, or information. Community co-design and ongoing monitoring are mandatory." |
+
+Determine the SAFE AI tier from the use's impact. Determine green, amber or red independently using the seven questions above. A tier does not authorize proceeding. Completing an assessment, community co-design or monitoring does not remove other approval, assurance, data-protection, human-review or remedy requirements.
+
+This crosswalk is ParalleX's reading for training purposes; it is not part of SAFE AI, is not endorsed by its authors, and does not replace an organizational assessment.

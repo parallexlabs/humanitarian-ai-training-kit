@@ -77,15 +77,17 @@ Pas de données réelles dans l'exercice en classe.
 
 ---
 
+# Exercice de fiche de transparence
+
+En binômes (15 minutes), rédigez une [fiche de transparence](../../tools/transparency-card-template.md) pour l'utilisation d'IA de l'étude de cas du bloc de décision.
+
+Voir le modèle pour la séquence d'animation.
+
+---
+
 # Bloc de contestation
 
-Un autre groupe conteste votre choix depuis :
-
-- Le terrain
-- Le gestionnaire
-- La politique
-
-Réviser la décision et nommer le responsable d'approbation.
+15 minutes : un autre groupe formule une objection écrite du point de vue qui lui est attribué — personnel de terrain, gestionnaire ou politique et vie privée. Révisez la décision et nommez la personne responsable de l'approbation.
 
 ---
 

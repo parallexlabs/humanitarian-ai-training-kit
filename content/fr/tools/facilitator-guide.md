@@ -10,7 +10,7 @@ Chaque séance dure **90 minutes** (clinique : 60 minutes; activité courte : 15
 2. Envoyez le [courriel d'invitation et d'agenda](sample-invitation-agenda-email.md) au moins cinq jours ouvrables avant la séance 1.
 3. Distribuez le [manuel du participant](participant-handbook.md) et la [liste de contrôle technologie et accessibilité](technology-accessibility-checklist.md).
 4. Confirmez les points focaux de sauvegarde avec l'organisation hôte (voir la voie d'escalade ci-dessous).
-
+5. Ouvrez un [journal de réflexion de l'animateur](facilitator-reflection-log.md) pour la série (une entrée par séance).
 
 ## Voie d'escalade en matière de sauvegarde (toutes les séances)
 
@@ -132,8 +132,11 @@ Réduire dans cet ordre jusqu'à retrouver l'horaire :
 | 0:00 | Rappel du parcours séances 1 à 2 | Rappel |
 | 0:10 | Enseigner politique vs commodité; module de sauvegarde | Enseignement |
 | 0:25 | Bloc de décision : brief fictif | Bloc de décision |
-| 0:55 | Bloc de contestation : trois perspectives | Contestation |
-| 1:25 | Rappel post-évaluation; clôture | Clôture |
+| 0:55 | Exercice de rédaction d'une fiche de transparence en binômes (15 min) | Fiche de transparence |
+| 1:10 | Bloc de contestation : un seul point de vue écrit (raccourci) | Contestation |
+| 1:25 | Rappel post-évaluation; aperçu du suivi à 30 jours; clôture | Clôture |
+
+**Note sur le minutage :** Les 15 minutes consacrées à la fiche de transparence sont retirées du bloc de contestation, qui passe de 30 à 15 minutes. La séance conserve ainsi sa durée de 90 minutes.
 
 ### Réponses attendues des participants
 
@@ -156,10 +159,13 @@ Réduire dans cet ordre jusqu'à retrouver l'horaire :
 
 ### En retard : liste de réduction (séance 3)
 
+Le plan standard raccourcit déjà le bloc de contestation de 15 minutes pour l'[exercice de fiche de transparence](transparency-card-template.md). Si vous prenez encore du retard :
+
 1. Raccourcir l'enseignement sur la sauvegarde à 5 minutes (résumé de l'animateur seulement; sauter la réflexion en binômes).
-2. Réduire le bloc de contestation de 10 minutes (contestation écrite seulement, pas d'échange oral).
-3. Un groupe présente les titres de la charte; les autres soumettent les feuilles de travail de façon asynchrone dans les 48 heures.
-4. **Ne réduisez pas :** règle sur les données fictives, rappel de consultation ou annonce de post-évaluation.
+2. Réduire le bloc de décision de 10 minutes (attribuer un cas à l'avance; les groupes commencent à 0:25).
+3. Supprimer le retour oral sur les fiches de transparence; recueillir la réponse à un champ par binôme dans le clavardage.
+4. Un groupe présente les titres de la charte; les autres soumettent les feuilles de travail de façon asynchrone dans les 48 heures.
+5. **Ne réduisez pas :** règle sur les données fictives, rappel de consultation, exercice de fiche de transparence ou annonce de post-évaluation.
 
 
 ## Clinique de suivi (60 minutes)
@@ -222,5 +228,8 @@ Suivre le tableau déroulé de l'activité (minutes 0 à 15). Pré-assigner les 
 ## Après la série
 
 - Noter les [scénarios de performance](../assessment/pre-post-check.md) et les feuilles de travail avec la [grille de compétences](../assessment/skills-rubric.md).
+- Compléter la synthèse de fin de série du [journal de réflexion de l'animateur](facilitator-reflection-log.md).
+- Planifier le [suivi de transfert à 30 jours](transfer-follow-up.md) (une seule relance; option anonyme).
 - Envoyer à l'organisation hôte seulement des thèmes agrégés (pas de classement individuel).
+- Intégrer un résumé du transfert dans la [page modèle de rapport final](../assessment/sample-final-report-page.md).
 - Rappeler aux participants que les matériels sont CC BY 4.0; l'adaptation exige un processus AAP distinct selon la [note de conception](aap-adaptation-design-note.md).

@@ -19,4 +19,6 @@
 
 **Recommendations.** 1. [Immediate improvement, owner and date.] 2. [Practice or supervisor support, owner and date.] 3. [A bounded follow-up measure, including a no-action option.] Any use beyond the training exercise needs the organization's own privacy, safeguarding and operational approval.
 
-**Evidence register.** Attendance source: [file/date]. Rubric and answer key: [version]. Feedback instrument: [version]. Aggregation method and exclusions: [brief note]. Reviewer/acceptance: [name or role/date].
+**Transfer (30 days, self-reported).** Response rate: [n]/[eligible n]. Item response distributions and valid n: [summary]. N/A and missing responses: [counts]. Top barriers (counts): [list]. Support themes (aggregate): [brief]. Source: [transfer-follow-up instrument version/date].
+
+**Evidence register.** Attendance source: [file/date]. Rubric and answer key: [version]. Feedback instrument: [version]. Transfer instrument: [version]. Aggregation method and exclusions: [brief note]. Reviewer/acceptance: [name or role/date].

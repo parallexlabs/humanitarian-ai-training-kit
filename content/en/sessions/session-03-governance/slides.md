@@ -77,15 +77,17 @@ No live data in the classroom exercise.
 
 ---
 
+# Transparency card exercise
+
+In pairs (15 minutes), draft one [transparency card](../../tools/transparency-card-template.md) for the case-study AI use from the decision block.
+
+See the template for the facilitation sequence.
+
+---
+
 # Challenge block
 
-Another group challenges your choice from:
-
-- Frontline
-- Manager
-- Policy
-
-Revise decision and name approval owner.
+15 minutes: another group provides one written challenge from one assigned perspective—frontline, manager or policy/privacy. Revise the decision and name the approval owner.
 
 ---
 

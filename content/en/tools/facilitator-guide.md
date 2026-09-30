@@ -10,6 +10,7 @@ Each session stays **90 minutes** (clinic: 60 minutes; short activity: 15 minute
 2. Send the [sample invitation and agenda email](sample-invitation-agenda-email.md) at least five business days before Session 1.
 3. Distribute the [participant handbook](participant-handbook.md) and [technology and accessibility checklist](technology-accessibility-checklist.md).
 4. Confirm safeguarding focal points with the hosting organization (see escalation path below).
+5. Open a [facilitator reflection log](facilitator-reflection-log.md) for the series (one entry per session).
 
 ## Safeguarding escalation path (all sessions)
 
@@ -128,8 +129,11 @@ Cut in this order until back on schedule:
 | 0:00 | Recall pathway Sessions 1 to 2 | Recall |
 | 0:10 | Teach policy vs convenience; safeguarding module | Teach |
 | 0:25 | Decision block: fictional brief | Decision block |
-| 0:55 | Challenge block: three perspectives | Challenge |
-| 1:25 | Post-assessment reminder; close | Close |
+| 0:55 | Transparency card exercise in pairs (15 min) | Transparency card |
+| 1:10 | Challenge block: one written perspective (shortened) | Challenge |
+| 1:25 | Post-assessment reminder; 30-day follow-up preview; close | Close |
+
+**Timing note:** The transparency card exercise uses 15 minutes permanently taken from the challenge block (was 30 minutes; now 15). The challenge block is the least essential activity shortened to keep the session at 90 minutes.
 
 ### Expected participant responses
 
@@ -152,10 +156,13 @@ Cut in this order until back on schedule:
 
 ### Running long: cut list (Session 3)
 
+The standard plan already shortens the challenge block by 15 minutes for the [transparency card exercise](transparency-card-template.md). If you still run long:
+
 1. Shorten safeguarding teach to 5 minutes (facilitator summary only; skip pair reflection).
-2. Reduce challenge block by 10 minutes (written challenge only, no verbal swap).
-3. One group presents charter headings; others submit worksheets asynchronously within 48 hours.
-4. **Do not cut:** fictional-data rule, consultation reminder, or post-assessment announcement.
+2. Reduce decision block by 10 minutes (assign one case in advance; groups start at 0:25).
+3. Skip verbal debrief of transparency cards; collect one field per pair in chat.
+4. One group presents charter headings; others submit worksheets asynchronously within 48 hours.
+5. **Do not cut:** fictional-data rule, consultation reminder, transparency card exercise, or post-assessment announcement.
 
 ## Follow-up clinic (60 minutes)
 
@@ -215,5 +222,8 @@ Follow the activity run-of-show table (minutes 0 to 15). Pre-assign rooms before
 ## After the series
 
 - Score [performance scenarios](../assessment/pre-post-check.md) and worksheets with the [skills rubric](../assessment/skills-rubric.md).
+- Complete the [facilitator reflection log](facilitator-reflection-log.md) end-of-series synthesis.
+- Schedule the [30-day transfer follow-up](transfer-follow-up.md) (one reminder only; anonymous option).
 - Send hosting organization aggregate themes only (no individual ranking).
+- Feed transfer summary into the [sample final-report page](../assessment/sample-final-report-page.md).
 - Remind participants that materials are CC BY 4.0; adaptation requires separate AAP process per [design note](aap-adaptation-design-note.md).

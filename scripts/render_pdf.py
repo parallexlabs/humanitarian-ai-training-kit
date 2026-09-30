@@ -30,9 +30,30 @@ def preprocess_slides(md_text: str) -> str:
     return "\n\n".join(parts).rstrip()
 
 
-def preprocess_markdown(md_text: str, is_slides: bool) -> str:
+PDF_TRUNCATE_AT_HEADING = {
+    "transparency-card-template.md": (
+        "## Session 3 exercise (facilitation only; not part of the printable card)",
+        "## Exercice de la séance 3 (animation seulement; ne fait pas partie de la fiche imprimable)",
+    ),
+}
+
+
+def truncate_for_pdf(md_text: str, md_path: Path) -> str:
+    markers = PDF_TRUNCATE_AT_HEADING.get(md_path.name)
+    if not markers:
+        return md_text
+    for marker in markers:
+        idx = md_text.find(marker)
+        if idx != -1:
+            return md_text[:idx].rstrip() + "\n"
+    return md_text
+
+
+def preprocess_markdown(md_text: str, is_slides: bool, md_path: Path | None = None) -> str:
     if is_slides:
         return preprocess_slides(md_text)
+    if md_path is not None:
+        md_text = truncate_for_pdf(md_text, md_path)
     return md_text
 
 
@@ -49,7 +70,7 @@ def _document_title(md_text: str, md_path: Path) -> str:
 
 def md_to_docx(md_path: Path, docx_path: Path, lang: str, is_slides: bool = False) -> None:
     md_text = md_path.read_text(encoding="utf-8")
-    processed = preprocess_markdown(md_text, is_slides)
+    processed = preprocess_markdown(md_text, is_slides, md_path)
     # Site-root image paths ("/assets/...") mean the repository assets folder when building the PDF.
     processed = processed.replace("](/assets/", f"]({REPO_ROOT / 'assets'}/")
     lang_code = LANG_CODES.get(lang, lang)

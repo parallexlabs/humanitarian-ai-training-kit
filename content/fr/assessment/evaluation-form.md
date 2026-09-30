@@ -1,6 +1,10 @@
 # Formulaire d'évaluation de séance
 
-**Anonyme.** Optionnel après chaque séance. Résultats agrégés seulement.
+**Niveau 1 de Kirkpatrick : réaction.** Anonyme. Optionnel après chaque séance. Résultats agrégés seulement.
+
+**Référence :** Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). [*Kirkpatrick's Four Levels of Training Evaluation*](https://www.td.org/product/book--kirkpatricks-four-levels-of-training-evaluation/111614). ATD Press.
+
+Voir aussi : [pré/post-évaluation](pre-post-check.md) (niveau 2 de Kirkpatrick : apprentissage) et [suivi de transfert à 30 jours](../tools/transfer-follow-up.md) (niveau 3 de Kirkpatrick : comportements autodéclarés). Le niveau 4 (résultats organisationnels) dépasse la portée de ce kit.
 
 ## À propos de cette séance
 
