@@ -1,769 +1,805 @@
 {
   "pages": [
     {
-      "url": "http://127.0.0.1:57480/en/assessment/evaluation-form.html",
+      "url": "http://127.0.0.1:51411/en/assessment/evaluation-form.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/assessment/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/assessment/index.html",
+      "url": "http://127.0.0.1:51411/en/assessment/pre-post-check.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/assessment/pre-post-check.html",
+      "url": "http://127.0.0.1:51411/en/assessment/sample-final-report-page.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/assessment/sample-final-report-page.html",
+      "url": "http://127.0.0.1:51411/en/assessment/skills-rubric.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/assessment/skills-rubric.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/01-evacuation-sms-translation.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/01-evacuation-sms-translation.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/02-needs-assessment-statistic.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/02-needs-assessment-statistic.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/03-donor-report-draft.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/03-donor-report-draft.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/case-studies/04-protection-case-note.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/case-studies/05-beneficiary-chatbot.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/04-protection-case-note.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/06-procurement-memo.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/05-beneficiary-chatbot.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/case-studies/06-procurement-memo.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/case-studies/07-data-sharing-request.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/case-studies/08-vendor-pitch.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/07-data-sharing-request.html",
+      "url": "http://127.0.0.1:51411/en/case-studies/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/08-vendor-pitch.html",
+      "url": "http://127.0.0.1:51411/en/curriculum-overview.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/case-studies/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/curriculum-overview.html",
+      "url": "http://127.0.0.1:51411/en/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/index.html",
+      "url": "http://127.0.0.1:51411/en/references.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/references.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/run-sheet.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/answer-key.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/clinic/worksheet.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/facilitation-tips.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/answer-key.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/learning-objectives.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/learning-objectives.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/run-sheet.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/speaker-notes.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/slides.html",
+      "url": "http://127.0.0.1:51411/en/sessions/clinic/worksheet.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 23
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/speaker-notes.html",
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/answer-key.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-01-foundations/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/answer-key.html",
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/facilitation-tips.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/learning-objectives.html",
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/live-tool-lab-route.html",
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-01-foundations/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/live-tool-lab-route.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-02-verified-work/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/safeguarding-module.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/session-03-governance/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/short-source-check/activity.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/sessions/short-source-check/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/aap-adaptation-design-note.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/ai-decision-guide.html",
       "violations": [],
       "violation_count": 0,
       "passes": 25
     },
     {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-02-verified-work/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/safeguarding-module.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/session-03-governance/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/short-source-check/activity.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/sessions/short-source-check/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/tools/aap-adaptation-design-note.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/tools/ai-decision-guide.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/en/tools/data-responsibility-checklist.html",
+      "url": "http://127.0.0.1:51411/en/tools/data-responsibility-checklist.html",
       "violations": [],
       "violation_count": 0,
       "passes": 27
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/deliverables-acceptance-checklist.html",
+      "url": "http://127.0.0.1:51411/en/tools/deliverables-acceptance-checklist.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/facilitator-guide.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/facilitator-preparation-checklist.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/facilitator-reflection-log.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/en/tools/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/facilitator-guide.html",
+      "url": "http://127.0.0.1:51411/en/tools/participant-handbook.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/facilitator-preparation-checklist.html",
+      "url": "http://127.0.0.1:51411/en/tools/sample-invitation-agenda-email.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 23
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/index.html",
+      "url": "http://127.0.0.1:51411/en/tools/technology-accessibility-checklist.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 26
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/participant-handbook.html",
+      "url": "http://127.0.0.1:51411/en/tools/transfer-follow-up.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 26
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/sample-invitation-agenda-email.html",
+      "url": "http://127.0.0.1:51411/en/tools/transparency-card-template.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/technology-accessibility-checklist.html",
+      "url": "http://127.0.0.1:51411/en/tools/visual-aids.html",
       "violations": [],
       "violation_count": 0,
       "passes": 25
     },
     {
-      "url": "http://127.0.0.1:57480/en/tools/visual-aids.html",
+      "url": "http://127.0.0.1:51411/fr/assessment/evaluation-form.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/assessment/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/assessment/pre-post-check.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/assessment/sample-final-report-page.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/assessment/skills-rubric.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/01-evacuation-sms-translation.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/02-needs-assessment-statistic.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/03-donor-report-draft.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/04-protection-case-note.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/05-beneficiary-chatbot.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/06-procurement-memo.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/07-data-sharing-request.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/08-vendor-pitch.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/case-studies/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/curriculum-overview.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/references.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/clinic/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-01-foundations/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/live-tool-lab-route.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-02-verified-work/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/answer-key.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/facilitation-tips.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/learning-objectives.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/run-sheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/safeguarding-module.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/slides.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/speaker-notes.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/session-03-governance/worksheet.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/short-source-check/activity.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/sessions/short-source-check/index.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 22
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/aap-adaptation-design-note.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/ai-decision-guide.html",
       "violations": [],
       "violation_count": 0,
       "passes": 25
     },
     {
-      "url": "http://127.0.0.1:57480/fr/assessment/evaluation-form.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/assessment/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/assessment/pre-post-check.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/assessment/sample-final-report-page.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/assessment/skills-rubric.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/01-evacuation-sms-translation.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/02-needs-assessment-statistic.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/03-donor-report-draft.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/04-protection-case-note.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/05-beneficiary-chatbot.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/06-procurement-memo.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/07-data-sharing-request.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/08-vendor-pitch.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/case-studies/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/curriculum-overview.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/references.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/clinic/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-01-foundations/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/live-tool-lab-route.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-02-verified-work/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/answer-key.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/facilitation-tips.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/learning-objectives.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/run-sheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/safeguarding-module.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/slides.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 23
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/speaker-notes.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/session-03-governance/worksheet.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/short-source-check/activity.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/sessions/short-source-check/index.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 20
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/tools/aap-adaptation-design-note.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 22
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/tools/ai-decision-guide.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/tools/data-responsibility-checklist.html",
+      "url": "http://127.0.0.1:51411/fr/tools/data-responsibility-checklist.html",
       "violations": [],
       "violation_count": 0,
       "passes": 27
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/deliverables-acceptance-checklist.html",
+      "url": "http://127.0.0.1:51411/fr/tools/deliverables-acceptance-checklist.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/facilitator-guide.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/facilitator-preparation-checklist.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 24
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/facilitator-reflection-log.html",
+      "violations": [],
+      "violation_count": 0,
+      "passes": 26
+    },
+    {
+      "url": "http://127.0.0.1:51411/fr/tools/index.html",
       "violations": [],
       "violation_count": 0,
       "passes": 22
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/facilitator-guide.html",
+      "url": "http://127.0.0.1:51411/fr/tools/participant-handbook.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/facilitator-preparation-checklist.html",
+      "url": "http://127.0.0.1:51411/fr/tools/sample-invitation-agenda-email.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 23
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/index.html",
+      "url": "http://127.0.0.1:51411/fr/tools/technology-accessibility-checklist.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 20
+      "passes": 26
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/participant-handbook.html",
+      "url": "http://127.0.0.1:51411/fr/tools/transfer-follow-up.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 26
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/sample-invitation-agenda-email.html",
+      "url": "http://127.0.0.1:51411/fr/tools/transparency-card-template.html",
       "violations": [],
       "violation_count": 0,
-      "passes": 22
+      "passes": 24
     },
     {
-      "url": "http://127.0.0.1:57480/fr/tools/technology-accessibility-checklist.html",
-      "violations": [],
-      "violation_count": 0,
-      "passes": 25
-    },
-    {
-      "url": "http://127.0.0.1:57480/fr/tools/visual-aids.html",
+      "url": "http://127.0.0.1:51411/fr/tools/visual-aids.html",
       "violations": [],
       "violation_count": 0,
       "passes": 25

@@ -205,6 +205,10 @@
       "ok": true
     },
     {
+      "file": "build/en/tools/facilitator-reflection-log.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/tools/participant-handbook.pdf",
       "ok": true
     },
@@ -214,6 +218,14 @@
     },
     {
       "file": "build/en/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/transfer-follow-up.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/transparency-card-template.pdf",
       "ok": true
     },
     {
@@ -425,6 +437,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/tools/facilitator-reflection-log.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/tools/participant-handbook.pdf",
       "ok": true
     },
@@ -434,6 +450,14 @@
     },
     {
       "file": "build/fr/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/transfer-follow-up.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/transparency-card-template.pdf",
       "ok": true
     },
     {
@@ -647,6 +671,10 @@
       "ok": true
     },
     {
+      "file": "build/en/tools/facilitator-reflection-log.pdf",
+      "ok": true
+    },
+    {
       "file": "build/en/tools/participant-handbook.pdf",
       "ok": true
     },
@@ -656,6 +684,14 @@
     },
     {
       "file": "build/en/tools/technology-accessibility-checklist.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/transfer-follow-up.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/en/tools/transparency-card-template.pdf",
       "ok": true
     },
     {
@@ -867,6 +903,10 @@
       "ok": true
     },
     {
+      "file": "build/fr/tools/facilitator-reflection-log.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/tools/participant-handbook.pdf",
       "ok": true
     },
@@ -879,11 +919,19 @@
       "ok": true
     },
     {
+      "file": "build/fr/tools/transfer-follow-up.pdf",
+      "ok": true
+    },
+    {
+      "file": "build/fr/tools/transparency-card-template.pdf",
+      "ok": true
+    },
+    {
       "file": "build/fr/tools/visual-aids.pdf",
       "ok": true
     }
   ],
   "passed": true,
-  "total": 110,
-  "passed_count": 110
+  "total": 116,
+  "passed_count": 116
 }
