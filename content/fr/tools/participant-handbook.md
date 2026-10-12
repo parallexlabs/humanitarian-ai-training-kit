@@ -60,7 +60,7 @@
 ## Accessibilité
 
 - Format principal : HTML accessible sur le site du kit
-- Les PDF sont balisés (PDF/UA-1). Demandez le HTML si le PDF est moins accessible pour vous.
+- Les PDF sont balisés et ont passé des vérifications automatisées PDF/UA-1. Demandez le HTML si un PDF est moins accessible pour vous.
 - Décrire les visuels : les diagrammes incluent des équivalents textuels dans les pages du guide
 - Contacter [contact adaptation hôte] pour sous-titrage, interprétation ou ajustements d'horaire
 

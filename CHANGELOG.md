@@ -70,10 +70,10 @@ All notable changes to this project are documented here.
 
 ### Changed
 
-- Replaced Chromium/Playwright PDF generation with LibreOffice PDF/UA-1 recipe (92/92 pass veraPDF ua1)
+- Replaced Chromium PDF generation with a LibreOffice tagged-PDF recipe. Automated veraPDF PDF/UA-1 checks passed on our build.
 - Verified ICRC AI Policy 2024 URL; UNHCR AI Approach PDF URL; IFRC data protection policy PDF URL
 - French references aligned with English (ICRC handbook 3rd edition, Canadian privacy sections)
-- Navigation CSS touch targets meet WCAG 2.2 target-size (axe: 0 violations)
+- Enlarged navigation touch targets. Automated axe checks reported no violations on our build.
 
 ## [1.0.0] - 2026-09-28
 

@@ -46,7 +46,7 @@ La séance 3 comprend un [module de sauvegarde et de protection](../sessions/ses
 
 ### Réponses attendues des participants
 
-- La plupart des groupes identifient **rouge** pour le cas SMS d'évacuation lorsqu'ils comparent le brouillon au bulletin.
+- Les groupes devraient identifier **rouge** pour le cas SMS d'évacuation lorsqu'ils comparent le brouillon au bulletin.
 - Enjeux de protection nommés : mauvaises informations d'accessibilité, erreurs d'itinéraire, négations omises dans la traduction.
 - Contrôle humain : responsable des communications locales ou approbateur équivalent, ne constitue pas le réviseur de la feuille de travail.
 
@@ -96,7 +96,7 @@ Réduire dans cet ordre jusqu'à retrouver l'horaire :
 
 - Laboratoire de consignes : les consignes améliorées nomment la tâche, le public, la source, le format et la règle pour les faits manquants.
 - Vérification des sources : prévalence de 78 % au district marquée **non fondée** ou **contredite** par rapport à 31 % dans la source.
-- Les gestionnaires classent souvent la synthèse pour donateurs en **ambre** sans approbation de l'organisation.
+- Les gestionnaires peuvent classer la synthèse pour donateurs en **ambre** sans approbation de l'organisation.
 
 ### Idées fausses courantes
 
@@ -140,7 +140,7 @@ Réduire dans cet ordre jusqu'à retrouver l'horaire :
 
 ### Réponses attendues des participants
 
-- Décision initiale souvent **option 2 ou 3** (davantage de preuves ou pilote limité), rarement l'option 1 seule sans justification.
+- Attendez-vous à ce que la plupart des groupes choisissent **l'option 2 ou 3** (davantage de preuves ou pilote limité).
 - Les chartes nomment la consultation encore requise, les seuils d'arrêt et la solution de repli manuelle.
 - Le bloc de contestation révise la décision vers davantage de consultation ou un périmètre de pilote réduit.
 

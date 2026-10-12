@@ -41,7 +41,7 @@ Use chat or poll.
 
 ---
 
-# Common themes
+# Possible themes
 
 - Unclear tool approval
 - Fear of making mistakes

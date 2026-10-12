@@ -61,7 +61,7 @@ python3 scripts/build.py --check-pdfs
 
 veraPDF path used locally: `/opt/homebrew/bin/verapdf` (profile `-f ua1`)
 
-**PDF/UA-1 (last build):** See `build/pdf-qa.json` after `python3 scripts/build.py --all`. HTML remains the primary accessible format (WCAG 2.2 AA).
+**PDF/UA-1 (last build):** See `build/pdf-qa.json` after `python3 scripts/build.py --all`. HTML is the main format. It is designed to meet WCAG 2.2 AA. Automated axe checks passed on our last build. No manual accessibility audit has been done.
 
 ### Accessibility audit
 

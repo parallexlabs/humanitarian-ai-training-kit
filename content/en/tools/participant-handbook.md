@@ -60,7 +60,7 @@
 ## Accessibility
 
 - Primary format: accessible HTML on the kit website
-- PDFs are tagged (PDF/UA-1). Request HTML if PDF is harder for you.
+- PDFs are tagged and passed automated PDF/UA-1 checks. Ask for HTML if a PDF is harder for you.
 - Describe visuals: diagrams include text equivalents in the guide pages
 - Contact [host accommodation contact] for captioning, interpretation, or schedule adjustments
 

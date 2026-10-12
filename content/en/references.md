@@ -1,6 +1,6 @@
 # References
 
-Every factual claim in this kit links to a public primary source. Summaries are ours. Quotations are identified, attributed and used under the stated licences. Each entry records its own access date.
+Each source used in this kit is listed below with its publisher and access date. Summaries are ours. Quotations are marked and attributed.
 
 ## Core guidance (required)
 

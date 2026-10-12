@@ -6,9 +6,9 @@
 
 A manager used AI to draft a memo recommending a solar equipment vendor for emergency deployment.
 
-**AI memo claims:** "Vendor SolBright has ISO 9001 certification, delivered 500 units to UN agencies in 2025, and offers 48-hour delivery to Region Y."
+**AI memo claims:** "Vendor A (fictional) has ISO 9001 certification, delivered 500 units to UN agencies in 2025, and offers 48-hour delivery to Region Y."
 
-**Your records:** SolBright is on the approved vendor list but ISO status unverified. No record of UN deliveries. Standard lead time is 14 days.
+**Your records:** Vendor A is on the approved vendor list, but its ISO status is unverified. No record of UN deliveries. Standard lead time is 14 days.
 
 ## Your task (10 minutes)
 

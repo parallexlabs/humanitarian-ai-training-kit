@@ -49,7 +49,7 @@ By the end of the series, participants will be able to:
 
 ## Canadian legal and accessibility context
 
-This kit aligns with federal automated decision-making guidance and OPC generative AI principles. Organizations must also apply **PIPEDA** (and Quebec Law 25 where relevant), provincial privacy laws, and accessibility standards such as the **Accessible Canada Act** and **AODA** (Ontario) to their own materials and platforms. References point to primary sources; this kit is not legal advice.
+This kit draws on the federal Directive on Automated Decision-Making and the OPC principles for generative AI. It has not been assessed against them. Organizations must also apply **PIPEDA** (and Quebec Law 25 where relevant), provincial privacy laws, and accessibility standards such as the **Accessible Canada Act** and **AODA** (Ontario) to their own materials and platforms. References point to primary sources; this kit is not legal advice.
 
 Indigenous data sovereignty and partner-led governance are named in Session 3. Classroom exercises are not a substitute for nation-specific or community-led consultation.
 
@@ -118,7 +118,7 @@ Performance scenarios scored with the [four-point skills rubric](assessment/skil
 |-------------|--------------------------|-----------------|
 | Responsible AI use | Seven-step screen; G/A/R decisions in every session | IASC 2023; UNESCO 2021; OPC 2023 |
 | Data responsibility | Checklist; protection and sharing cases | IASC 2023; OCHA 2025; ICRC Handbook 3rd ed. |
-| Verification | Source-check tables; Session 2 prompt lab | Consensus literature on verification gaps |
+| Verification | Source-check tables; Session 2 prompt lab | OPC 2023 principles |
 | Humanitarian protection | Protection lens; chatbot and SMS cases | Fundamental Principles; ICRC AI policy 2024 |
 | Governance and adoption | Pilot charter; vendor pitch case | Canada ADM directive; UNHCR AI approach |
 | Canadian context | PIPEDA, AODA, ACA references | Government of Canada; OPC |

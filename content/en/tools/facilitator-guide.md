@@ -45,7 +45,7 @@ Session 3 includes a [safeguarding and protection module](../sessions/session-03
 
 ### Expected participant responses
 
-- Most groups identify **red** for the evacuation SMS case when they compare draft to bulletin.
+- Groups should identify **red** for the evacuation SMS case when they compare the draft to the bulletin.
 - Protection issues named: wrong accessibility information, route errors, dropped negations in translation.
 - Human control: local communications lead or equivalent approver, not the worksheet reviewer.
 
@@ -94,7 +94,7 @@ Cut in this order until back on schedule:
 
 - Prompt lab: improved prompts name task, audience, source, format, and missing-fact rule.
 - Source check: 78% district prevalence marked **unsupported** or **contradicted** vs 31% in source.
-- Managers often classify donor summarization as **amber** without org approval.
+- Managers may classify donor summarization as **amber** without org approval.
 
 ### Common misconceptions
 
@@ -137,7 +137,7 @@ Cut in this order until back on schedule:
 
 ### Expected participant responses
 
-- Initial decision often **option 2 or 3** (more evidence or limited pilot), rarely option 1 alone without rationale.
+- Expect most groups to choose **option 2 or 3** (more evidence or a limited pilot).
 - Charter drafts name consultation still required, stop thresholds, and manual fallback.
 - Challenge block revises decision toward more consultation or narrower pilot scope.
 

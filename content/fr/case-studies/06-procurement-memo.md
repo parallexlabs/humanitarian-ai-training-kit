@@ -6,9 +6,9 @@
 
 Un gestionnaire a utilisé l'IA pour rédiger une note recommandant un fournisseur d'équipement solaire pour un déploiement d'urgence.
 
-**Affirmations de la note IA :** « Le fournisseur SolBright détient la certification ISO 9001, a livré 500 unités aux agences de l'ONU en 2025 et offre une livraison en 48 heures vers la région Y. »
+**Affirmations de la note IA :** « Le fournisseur A (fictif) détient la certification ISO 9001, a livré 500 unités aux agences de l'ONU en 2025 et offre une livraison en 48 heures vers la région Y. »
 
-**Vos dossiers :** SolBright est sur la liste des fournisseurs approuvés mais le statut ISO n'est pas vérifié. Dossier de livraisons à l'ONU absent. Le délai standard est de 14 jours.
+**Vos dossiers :** Le fournisseur A est sur la liste des fournisseurs approuvés, mais son statut ISO n'est pas vérifié. Dossier de livraisons à l'ONU absent. Le délai standard est de 14 jours.
 
 ## Votre tâche (10 minutes)
 

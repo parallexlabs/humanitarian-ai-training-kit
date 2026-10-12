@@ -1,6 +1,6 @@
 # Références
 
-Chaque affirmation factuelle de ce kit renvoie à une source primaire publique. Les résumés sont les nôtres. Les citations sont signalées, attribuées et utilisées conformément aux licences indiquées. Chaque entrée indique sa propre date de consultation.
+Chaque source utilisée dans ce kit est listée ci-dessous avec son éditeur et sa date de consultation. Les résumés sont les nôtres. Les citations sont signalées et attribuées.
 
 ## Orientations fondamentales (obligatoires)
 

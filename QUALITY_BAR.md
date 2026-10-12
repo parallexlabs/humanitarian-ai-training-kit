@@ -21,7 +21,7 @@ Acceptance criteria for publishing the Humanitarian AI Training Kit. Run all che
 
 ## Accessibility
 
-- HTML is the primary accessible format (WCAG 2.2 AA).
+- HTML is the main format. It is designed to meet WCAG 2.2 AA. Automated axe checks passed on our last build. No manual accessibility audit has been done.
 - Every diagram has full alt text and a text equivalent in the same page.
 - Slide decks support keyboard navigation.
 - Technology checklist includes captioning plan and synchronous low-bandwidth route (audio or phone plus chat).

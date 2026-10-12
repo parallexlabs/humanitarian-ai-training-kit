@@ -41,7 +41,7 @@ Utiliser le clavardage ou un sondage.
 
 ---
 
-# Thèmes courants
+# Thèmes possibles
 
 - Approbation d'outil floue
 - Peur de faire des erreurs

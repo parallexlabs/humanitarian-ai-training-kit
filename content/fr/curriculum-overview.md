@@ -49,7 +49,7 @@ Les séances sont conçues pour être offertes une fois par mois. Une pratique o
 
 ## Contexte juridique et d'accessibilité au Canada
 
-Ce programme s'aligne sur les directives fédérales sur la prise de décisions automatisées et les principes de l'OPC sur l'IA générative. Les organisations doivent aussi appliquer la **LPRPDE** (et la Loi 25 au Québec, le cas échéant), les lois provinciales sur la vie privée et les normes d'accessibilité comme la **Loi canadienne sur l'accessibilité** et la **LAPHO** (Ontario) à leurs propres documents et plateformes. Les références pointent vers des sources primaires; ce programme ne constitue pas un avis juridique.
+Ce programme s'appuie sur la Directive fédérale sur la prise de décisions automatisées et sur les principes de l'OPC sur l'IA générative. Il n'a pas été évalué par rapport à ces textes. Les organisations doivent aussi appliquer la **LPRPDE** (et la Loi 25 au Québec, le cas échéant), les lois provinciales sur la vie privée et les normes d'accessibilité comme la **Loi canadienne sur l'accessibilité** et la **LAPHO** (Ontario) à leurs propres documents et plateformes. Les références pointent vers des sources primaires; ce programme ne constitue pas un avis juridique.
 
 La souveraineté des données autochtones et la gouvernance menée par les partenaires sont nommées à la séance 3. Les exercices en salle ne remplacent pas une consultation propre à une nation ou une communauté.
 
@@ -118,7 +118,7 @@ Les scénarios de performance notés avec la [grille de compétences à quatre p
 |----------|-------------------------|---------------------|
 | Utilisation responsable de l'IA | Filtre en sept étapes; décisions V/A/R à chaque séance | CPI 2023; UNESCO 2021; OPC 2023 |
 | Responsabilité des données | Liste de contrôle; cas protection et partage | CPI 2023; OCHA 2025; Manuel CICR 3e éd. |
-| Vérification | Tableaux de vérification; laboratoire de consignes séance 2 | Littérature sur les lacunes de vérification |
+| Vérification | Tableaux de vérification; laboratoire de consignes séance 2 | Principes OPC 2023 |
 | Protection humanitaire | Lentille protection; cas chatbot et SMS | Principes fondamentaux; politique IA CICR 2024 |
 | Gouvernance et adoption | Charte pilote; cas pitch fournisseur | Directive ADM Canada; approche IA HCR |
 | Contexte canadien | Références LPRPDE, LAPHO, LCA | Gouvernement du Canada; OPC |
