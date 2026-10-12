@@ -49,7 +49,7 @@ Les séances sont conçues pour être offertes une fois par mois. Une pratique o
 
 ## Contexte juridique et d'accessibilité au Canada
 
-Ce programme s'appuie sur la Directive fédérale sur la prise de décisions automatisées et sur les principes de l'OPC sur l'IA générative. Il n'a pas été évalué par rapport à ces textes. Les organisations doivent aussi appliquer la **LPRPDE** (et la Loi 25 au Québec, le cas échéant), les lois provinciales sur la vie privée et les normes d'accessibilité comme la **Loi canadienne sur l'accessibilité** et la **LAPHO** (Ontario) à leurs propres documents et plateformes. Les références pointent vers des sources primaires; ce programme ne constitue pas un avis juridique.
+Ce programme s'appuie sur la Directive fédérale sur la prise de décisions automatisées et sur les principes de l'OPC sur l'IA générative. Il n'a fait l'objet d'aucune évaluation par rapport à ces textes. Les organisations doivent aussi appliquer la **LPRPDE** (et la Loi 25 au Québec, le cas échéant), les lois provinciales sur la vie privée et les normes d'accessibilité comme la **Loi canadienne sur l'accessibilité** et la **LAPHO** (Ontario) à leurs propres documents et plateformes. Les références pointent vers des sources primaires; ce programme ne constitue pas un avis juridique.
 
 La souveraineté des données autochtones et la gouvernance menée par les partenaires sont nommées à la séance 3. Les exercices en salle ne remplacent pas une consultation propre à une nation ou une communauté.
 
