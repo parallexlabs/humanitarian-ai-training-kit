@@ -22,7 +22,7 @@ Organizations with a written approved tool may use the [live-tool lab route](liv
 
 ## Accessibility
 
-- Source-check table works in Word, Google Docs, or paper
+- Source-check table works in Word, an online document editor, or paper
 - Color is not used to mark supported/contradicted; words only
 
 ## Adaptation after Session 1

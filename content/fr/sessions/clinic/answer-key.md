@@ -4,7 +4,7 @@
 
 **Modèle :** Ambre jusqu'à confirmation avec l'informatique/la vie privée. Action : courriel à l'approbateur avec description de la tâche et classification des données.
 
-## « Est-ce correct d'utiliser ChatGPT pour...? »
+## « Est-ce correct d'utiliser un agent conversationnel d'IA public pour...? »
 
 **Modèle :** Dépend du type de données et de la politique de l'organisation. Ambre par défaut pour toute donnée personnelle ou opérationnelle sensible. La rédaction publique peut être verte avec vérification.
 

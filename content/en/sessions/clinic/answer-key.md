@@ -4,7 +4,7 @@
 
 **Pattern:** Amber until confirmed with IT/privacy. Action: email approver with task description and data classification.
 
-## "Is it OK to use ChatGPT for...?"
+## "Is it OK to use a public AI chatbot for...?"
 
 **Pattern:** Depends on data type and org policy. Default amber for any personal or sensitive operational data. Public drafting may be green with verification.
 

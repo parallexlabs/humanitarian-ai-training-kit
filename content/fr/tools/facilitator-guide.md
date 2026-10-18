@@ -61,7 +61,7 @@ La séance 3 comprend un [module de sauvegarde et de protection](../sessions/ses
 
 ### Questions difficiles
 
-- **« Puis-je utiliser ChatGPT pour ma vraie charge de cas? »** Rediriger vers la liste de responsabilité des données et l'approbation de l'organisation. Aucune recommandation d'outil en classe.
+- **« Puis-je utiliser un agent conversationnel d'IA public pour ma vraie charge de cas? »** Rediriger vers la liste de responsabilité des données et l'approbation de l'organisation. Aucune recommandation d'outil en classe.
 - **« Que faire si la direction ignore les décisions rouges? »** Nommer l'écart de responsabilité; suggérer une charte pilote et une demande de politique à la séance 3. Ne conseillez pas de voies de dénonciation sans contact organisationnel.
 - **Un participant partage des données de cas réelles :** Suivre la voie d'escalade en matière de sauvegarde ci-dessus.
 

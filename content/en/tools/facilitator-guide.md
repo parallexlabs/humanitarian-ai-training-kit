@@ -60,7 +60,7 @@ Session 3 includes a [safeguarding and protection module](../sessions/session-03
 
 ### Difficult questions
 
-- **"Can I use ChatGPT for my real caseload?"** Redirect to data-responsibility checklist and org approval. No tool endorsement in the classroom.
+- **"Can I use a public AI chatbot for my real caseload?"** Redirect to data-responsibility checklist and org approval. No tool endorsement in the classroom.
 - **"What if leadership ignores red decisions?"** Name accountability gap; suggest pilot charter and policy ask in Session 3. Do not advise whistleblowing paths without org contact.
 - **Participant shares real case data:** Follow safeguarding escalation path above.
 

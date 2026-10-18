@@ -22,7 +22,7 @@ Les organisations avec un outil approuvé par écrit peuvent utiliser la [voie l
 
 ## Accessibilité
 
-- Le tableau de vérification des sources fonctionne dans Word, Google Docs ou sur papier
+- Le tableau de vérification des sources fonctionne dans Word, dans un éditeur de documents en ligne ou sur papier
 - La couleur n'est pas utilisée pour marquer fondé/contredit; mots seulement
 
 ## Adaptation après la séance 1
