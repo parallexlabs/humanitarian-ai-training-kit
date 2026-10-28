@@ -27,8 +27,7 @@ LANG_META = {
     "fr": {
         "label": "Français",
         "notice": (
-            "French version prepared with machine assistance; human review by a "
-            "professional translator is recommended before use."
+            "French not yet reviewed by a professional translator."
         ),
     },
 }

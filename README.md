@@ -13,14 +13,14 @@ Open, bilingual (English and French), accessible training on using AI responsibl
 | **Code licence** | [Apache-2.0](LICENSE-CODE) |
 | **Languages** | English (`content/en/`), French (`content/fr/`) |
 
-French versions were prepared with machine assistance; human review by a professional translator is recommended before use.
+French not yet reviewed by a professional translator.
 
 ### French quality and parity
 
 - **Parity checks:** `scripts/compare_en_fr.py` compares every EN/FR file pair for numbers, dates, times, ordered and unordered list counts, table rows, and negation markers. Release requires 0 mismatches.
 - **Terminology glossary (key terms):** *green / amber / red* = vert / ambre / rouge; *affected people* = personnes touchées; *data responsibility* = responsabilité des données; *safeguarding* = sauvegarde; *PSEA* = PSEA (Protection contre l'exploitation et les atteintes sexuelles); *accountability* = responsabilité (rendered *responsabilité envers les personnes touchées* where the English means accountability to affected people).
 - **Professional review:** No professional translator has reviewed the French materials yet. Treat them as draft until your organization completes review for your context.
-- **Machine assistance:** French files were produced with machine assistance and edited for structural parity with English; they are not certified translations.
+- French not yet reviewed by a professional translator.
 
 ## Open by design
 

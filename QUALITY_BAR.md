@@ -17,7 +17,7 @@ Acceptance criteria for publishing the Humanitarian AI Training Kit. Run all che
 - Learning materials only. No invented delivery history, cohort data, testimonials, or translator credentials.
 - Sample final-report page stays a clearly labelled template.
 - AAP design note describes how adopting organizations should consult affected communities; never claim consultation already occurred for this kit.
-- French materials include machine-assistance notice and plain statement that no professional translator has reviewed them yet.
+- French materials include the notice "French not yet reviewed by a professional translator."
 
 ## Accessibility
 

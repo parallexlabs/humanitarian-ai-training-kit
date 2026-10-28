@@ -89,5 +89,5 @@ All notable changes to this project are documented here.
 
 ### Notes
 
-- French translations prepared with machine assistance; professional human review recommended
+- French not yet reviewed by a professional translator.
 - Learning materials only; not a record of delivered training
